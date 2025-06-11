@@ -1,3 +1,15 @@
 Student answer are logged here
 ------------------------------------------------------------
 
+Timestamp:    2025-06-11 14:13:41
+Question:      What is the purpose of carbon-dioxide sensors in a BAS?  
+
+Modal Answer:  They serve as a proxy for human occupancy intensity, enabling demand-controlled ventilation to improve indoor air quality and reduce energy consumption.
+Student Ans:  To measure the level of CO2 in the room and ensure that it is not exceeding the maximum limit of 1000 ppm.
+
+GPT Feedback:
+Right points: The answer focuses on measuring CO2 levels.
+Improve on: It doesn't mention the proxy for human occupancy or the benefits of demand-controlled ventilation. It should include how monitoring CO2 helps improve indoor air quality and reduce energy consumption.
+Score: 70%
+
+------------------------------------------------------------
