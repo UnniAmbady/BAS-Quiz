@@ -265,7 +265,7 @@ else:
             st.session_state.sys_qn =sys_qn
             st.session_state.sys_ans =sys_ans
             
-        if st_answer := st.chat_input("Type your Answer here"):
+        if st_answer := st.chat_input("Type (Your Name) and answer here:"):
             st.session_state.st_answer = st_answer
             st.session_state.st_answered = 1
             #save_global(sys_qn, sys_ans, st_answer)              
