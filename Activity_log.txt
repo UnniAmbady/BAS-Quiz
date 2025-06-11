@@ -73,3 +73,16 @@ Improve on: The answer lacks detail and does not address the purpose of temperat
 Score: 50%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-11 15:48:50
+Name:         Unni3
+Question:      What role do carbon-dioxide sensors play in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors help control ventilation by using CO2 concentration as a proxy for human occupancy, enabling demand-controlled ventilation that improves indoor air quality while reducing energy waste.
+Student Ans:  To check the CO2 level which will increase with increase with crowd size in the building and adjust the ventilation rate accordingly
+
+GPT Feedback:
+Right points: CO2 level increases with crowd size. Adjust ventilation rate accordingly.
+Improve on: The answer lacks detail about how CO2 sensors work as a proxy for occupancy and the benefits of demand-controlled ventilation. Corrected: "Carbon-dioxide sensors check CO2 levels, which increase with crowd size, and adjust ventilation to improve indoor air quality and reduce energy waste."
+Score: 80%
+
+------------------------------------------------------------
