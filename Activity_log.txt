@@ -137,3 +137,15 @@ Improve on: The answer is too brief and lacks detail. It should mention real-tim
 Score: 50%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-11 20:15:04
+Name:         Dhivya
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors serve as the backbone of a BAS, providing real-time data that enables precise control of heating, cooling, and comfort algorithms.
+Student Ans:  Sense the temperature and send signal to BMS
+
+GPT Feedback:
+Right points: Sense the temperature.
+Improve on: Should mention "real-time data" and "precise control." Complete answer needed.
+Score: 70%
+
+------------------------------------------------------------
