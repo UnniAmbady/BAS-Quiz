@@ -162,3 +162,15 @@ Improve on: The student answer lacks detail about occupancy intensity and indoor
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-11 21:30:56
+Name:         xxx
+Question:     What role do occupancy sensors play in a Building Automation System (BAS)?
+Modal Answer: Occupancy sensors detect motion and presence, allowing the BAS to activate lighting and adjust temperature set-points based on real-time space utilization.
+Student Ans:  occupancy sensors play in a Building Automation System 
+
+GPT Feedback:
+Right points: The student mentions occupancy sensors and Building Automation System (BAS).
+Improve on: The answer lacks detail on how occupancy sensors work and their specific role in BAS. It should explain motion detection and adjustments to lighting and temperature.
+Score: 70%
+
+------------------------------------------------------------
