@@ -170,7 +170,7 @@ def log_and_commit(sys_qn: str, sys_ans: str, st_ans: str, analysis_text: str):
     # Authenticate
     github_token = st.secrets["github"]["token"]
     gh = Github(github_token)
-    repo = gh.get_repo("UnniAmbady/SecuritySystemQuiz")
+    repo = gh.get_repo("UnniAmbady/BAS-Quiz")
 
     # Prepare the log entry
     ts = datetime.now(pytz.timezone("Asia/Singapore")).strftime("%Y-%m-%d %H:%M:%S")
@@ -254,7 +254,7 @@ else:
         for page in reader.pages:
             document += page.extract_text() or ""
     else:
-        st.error("Failed to load Security_Systems_Notes.pdf from GitHub.")
+        st.error("Failed to load BAS_Notes.pdf from GitHub.")
         st.stop()
         
     uploaded_file= document #used back old variable name
