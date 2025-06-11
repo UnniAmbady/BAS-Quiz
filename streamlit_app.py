@@ -25,12 +25,18 @@ if "st_answered" not in st.session_state:
 # --- ASK FOR NAME IN MODAL/POPUP ---
 
 
+
 def ask_name_popup():
     st.warning("Please enter your Name to begin:")
     name = st.text_input("Enter your Name:", key="input_name")
     if st.button("Submit Name"):
-        return name.strip()
-    return None
+        if name.strip():
+            st.session_state.Name = name.strip()  # set the name in session state
+            return True  # indicate success
+        else:
+            st.error("Name cannot be blank.")
+    return False  # not yet submitted
+
 
 
 if not st.session_state.Name:
