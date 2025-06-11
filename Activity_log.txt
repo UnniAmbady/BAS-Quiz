@@ -86,3 +86,16 @@ Improve on: The answer lacks detail about how CO2 sensors work as a proxy for oc
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-11 15:53:01
+Name:         Unni 4
+Question:      What does an Integrated Building Management System (IBMS) do?  
+
+Modal Answer:  It consolidates information from various building subsystems into one database and visual interface, allowing for coordinated control and improved operational insights.
+Student Ans:  In enables the integration of all sub-systems in the building
+
+GPT Feedback:
+Right points: It enables the integration of all sub-systems in the building.
+Improve on: The answer lacks detail about consolidation, database, visual interface, coordinated control, and operational insights. It should mention these aspects for completeness.
+Score: 80%
+
+------------------------------------------------------------
