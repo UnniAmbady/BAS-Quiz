@@ -27,7 +27,7 @@ if "st_answered" not in st.session_state:
 
 
 def ask_name_popup():
-    st.title(📄 BAS Knowledge Test🎈)
+    st.title("📄 BAS Knowledge Test🎈")
     st.warning("Please enter your Name to begin:")
     name = st.text_input("Enter your Name:", key="input_name")
     if st.button("Submit Name"):
