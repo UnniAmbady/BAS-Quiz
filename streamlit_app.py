@@ -75,11 +75,11 @@ def AskQn():
     messages = [
         {"role": "system",
          "content": (
-             "You are a question generator."
-             "Your goal is to generate a **different** question every time, using a truly random sub-topic, fact, or detail from the document below." 
-             "Never repeat the same question or fact twice in a row or across recent attempts." 
-            "Make sure the question is unique and based strictly on the document." 
-            "If you cannot find a new topic, respond with 'I am not sure.'" )
+             "You are a question generator." 
+             "To ensure variety, first pick a random starting offset between 0% and 100% of the document below." 
+             "Begin scanning for a fact or sub-topic starting at that offset, and use only what you find nearby to create a unique question." 
+             "Never use the same part of the document or repeat a question." 
+             "If you cannot find a suitable new topic, respond with 'I am not sure.'"  )
         },
         {"role": "user",
          "content": f"Here’s the document:\n\n{document}\n\n---\n\n{query}"
