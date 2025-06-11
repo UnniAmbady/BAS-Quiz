@@ -47,3 +47,17 @@ Improve on: The answer is too brief and lacks detail. It should mention the impo
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-11 15:16:13
+Name:         Unni
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the temperature of spaces, allowing for precise modulation of heating, cooling, and overall comfort levels.
+Student Ans:  To measure the Temperature
+
+GPT Feedback:
+Right points: None. The answer lacks detail and completeness.
+Improve on: The answer should explain what temperature sensors do, not just state "to measure the temperature." It should mention real-time data and its impact on heating and cooling.
+Score: 60%
+
+------------------------------------------------------------
