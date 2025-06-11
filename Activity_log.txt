@@ -125,3 +125,15 @@ Improve on: The answer is too simplistic. It lacks detail about functionality an
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-11 20:11:29
+Name:         Class-A
+Question:     What do temperature sensors do in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors provide real-time data on the temperature of spaces, enabling precise modulation of heating, cooling, and energy algorithms.
+Student Ans:  Measure Temperature
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer is too brief and lacks detail. It should mention real-time data, modulation of heating and cooling, and energy algorithms.
+Score: 50%
+
+------------------------------------------------------------
