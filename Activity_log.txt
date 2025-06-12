@@ -76,3 +76,16 @@ Improve on: The answer lacks detail and does not address the concept of an Intel
 Score: 20%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-12 16:46:37
+Name:         SRINI
+Question:      What does an Integrated Building Management System (IBMS) do?  
+
+Modal Answer:  An IBMS consolidates information from various subsystems into a single platform for better coordinated control and operational efficiency.
+Student Ans:  centralized platform that monitors, controls, and manages various building systems and services to ensure efficiency, safety, comfort, and sustainability. It integrates multiple standalone building systems into a single interface, enabling centralized control and data-driven decision-making.
+
+GPT Feedback:
+Right points: The answer describes a centralized platform and the integration of various systems. It mentions efficiency and control.
+Improve on: The term "IBMS" should be explicitly stated as "Intelligent Building Management System". The phrase "better coordinated control" is not directly mentioned.
+Score: 85%
+
+------------------------------------------------------------
