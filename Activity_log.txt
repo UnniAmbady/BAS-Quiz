@@ -63,3 +63,16 @@ Improve on: Lacks detail on real-time data and modulation of systems. Should men
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-12 16:41:05
+Name:         SRINI
+Question:      What technology allows a Building Automation System to adaptively control HVAC and lighting based on real-time data from sensors?  
+
+Modal Answer:  An Intelligent Building Management System (IBMS) uses data-driven autonomy to continuously optimize control based on real-time sensor inputs.
+Student Ans:  TEMPRATURE SENSORS
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer lacks detail and does not address the concept of an Intelligent Building Management System. A more complete response is needed.
+Score: 20%
+
+------------------------------------------------------------
