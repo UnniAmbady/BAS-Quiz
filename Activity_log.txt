@@ -108,3 +108,16 @@ Improve on: The phrase "is used to" is awkward. It should simply state "The prim
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-19 11:38:38
+Name:         Sia Yin Chung
+Question:      What is the purpose of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  They serve as a proxy for human occupancy intensity, enabling demand-controlled ventilation to improve indoor air quality and reduce energy consumption.
+Student Ans:  The purpose of carbon-dioxide sensors in Building Automation System is used to monitor indoor air quality and optimize ventilation. 
+
+GPT Feedback:
+Right points: The answer mentions monitoring indoor air quality and optimizing ventilation.
+Improve on: The phrase "is used" is awkward. It should be "is to monitor." Also, it lacks mention of energy consumption and demand-controlled ventilation.
+Score: 85%
+
+------------------------------------------------------------
