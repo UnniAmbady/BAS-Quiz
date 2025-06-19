@@ -89,3 +89,22 @@ Improve on: The term "IBMS" should be explicitly stated as "Intelligent Building
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-19 11:35:34
+Name:         Sia Yin Chung
+Question:      What is the primary function of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data to zone controllers to precisely modulate heating, cooling, and ventilation based on the temperature of a space or equipment.
+Student Ans:  The primary function of temperature sensors in a Building Automation System (BAS) is used to:
+
+1. Control HVAC systems (Heating, Ventilation, and Air Conditioning) – ensuring that indoor environments remain within desired temperature ranges for comfort and energy efficiency.
+
+2. Enable energy management – by detecting temperature variations and optimizing system operations to reduce energy consumption.
+
+3. Support automation logic – where temperature readings can trigger actions such as turning on/off heating or cooling units, adjusting ventilation, or sending alerts.
+
+GPT Feedback:
+Right points: The primary function of temperature sensors is to control HVAC systems, enable energy management, and support automation logic effectively.
+Improve on: The phrase "is used to" is awkward. It should simply state "The primary function of temperature sensors is to:". Additionally, the answer could be more concise.
+Score: 85%
+
+------------------------------------------------------------
