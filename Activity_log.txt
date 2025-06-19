@@ -134,3 +134,17 @@ Improve on: The answer lacks specifics on how occupancy sensors work (detecting 
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-19 23:55:11
+Name:         test
+Question:      What is the primary function of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the temperature of spaces to enable precise control of heating, ventilation, and air conditioning (HVAC) systems.
+Student Ans:  To Measure the Temperature and adjust it so as to get the optimum comfort level
+
+GPT Feedback:
+Right points: The student answer mentions measuring temperature and adjusting it for comfort.
+Improve on: The answer lacks detail. It should specify the function of temperature sensors and their role in HVAC systems.
+Score: 75%
+
+------------------------------------------------------------
