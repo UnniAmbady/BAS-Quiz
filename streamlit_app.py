@@ -44,18 +44,17 @@ if not st.session_state.Name:
     if not ask_name_popup():
         st.stop() #Stop only if name is Empty
 else:
+    # --- Show title, Name and description ---
+    st.title("📄 BAS Knowledge Test🎈")
+    st.write(f"Name: {st.session_state.Name}")
+    st.write("Read your lecture notes & refer to the PDF before answering. "
+        "Students need to answer at least 2 Questions.")
 
-# --- Show title, Name and description ---
-st.title("📄 BAS Knowledge Test🎈")
-st.write(f"Name: {st.session_state.Name}")
-st.write("Read your lecture notes & refer to the PDF before answering. "
-    "Students need to answer at least 2 Questions.")
+    query = "Create a random Question with an Answer. Answer must be short."
+    document = None
+    uploaded_file = None
 
-query = "Create a random Question with an Answer. Answer must be short."
-document = None
-uploaded_file = None
-
-# (Rest of your parsing, extract_question_and_answer, and other utility functions here...)
+    # (Rest of your parsing, extract_question_and_answer, and other utility functions here...)
 
 def extract_question_and_answer(generated_content):
     try:
