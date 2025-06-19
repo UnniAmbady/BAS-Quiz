@@ -43,7 +43,7 @@ def ask_name_popup():
 if not st.session_state.Name:
     if not ask_name_popup():
         st.stop() #Stop only if name is Empty
-
+else:
 
 # --- Show title, Name and description ---
 st.title("📄 BAS Knowledge Test🎈")
