@@ -208,3 +208,31 @@ Improve on: **
 Score: ** 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 06:41:09
+Name:         Sylvester Ong Woen Taq
+Question:     What is the role of carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors monitor CO2 concentration to enable demand-controlled ventilation, which helps reduce fan energy consumption and maintain indoor air quality.
+Student Ans:  The role of carbon dioxide (CO₂) sensors in a Building Automation System (BAS) is to monitor indoor CO₂ levels and help regulate ventilation systems to maintain healthy air quality and optimize energy efficiency.
+
+Key Roles:
+Monitor Indoor Air Quality (IAQ):
+CO₂ sensors track the concentration of carbon dioxide in indoor spaces, which is an important indicator of air quality and occupancy.
+
+Enable Demand-Controlled Ventilation (DCV):
+BAS uses CO₂ data to adjust ventilation rates based on actual occupancy. When CO₂ levels are high, the system increases fresh air; when levels are low, it reduces ventilation to conserve energy.
+
+Enhance Energy Efficiency:
+By supplying ventilation only when needed, CO₂ sensors help reduce unnecessary heating, cooling, and fan operation, leading to energy savings.
+
+Improve Occupant Comfort and Health:
+Maintaining CO₂ levels below recommended thresholds (typically below 1000 ppm) ensures a comfortable and productive indoor environment, reducing drowsiness and health complaints.
+
+Summary:
+CO₂ sensors in BAS support intelligent control of ventilation to balance air quality, occupant comfort, and energy efficiency.
+
+GPT Feedback:
+Right points: The student accurately describes the role of CO₂ sensors in monitoring indoor air quality, regulating ventilation, and optimizing energy efficiency.
+Improve on: The answer could explicitly mention "demand-controlled ventilation" to align with the correct answer's terminology. Additionally, the summary could be more concise.
+Score: 85%
+
+------------------------------------------------------------
