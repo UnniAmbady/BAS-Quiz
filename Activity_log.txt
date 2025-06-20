@@ -24,19 +24,6 @@ GPT Feedback:
 Right points: None of the answer directly addresses the main points of the correct answer.
 Improve on: The student answer lacks detail about occupancy intensity and indoor air quality. It should mention how carbon-dioxide levels relate to these concepts. A better response could be: "They measure carbon-dioxide levels to indicate human occupancy, allowing for demand-controlled ventilation that improves indoor air quality and reduces energy use."
 Score: 60%
-
-------------------------------------------------------------
-Timestamp:    2025-06-11 21:30:56
-Name:         xxx
-Question:     What role do occupancy sensors play in a Building Automation System (BAS)?
-Modal Answer: Occupancy sensors detect motion and presence, allowing the BAS to activate lighting and adjust temperature set-points based on real-time space utilization.
-Student Ans:  occupancy sensors play in a Building Automation System 
-
-GPT Feedback:
-Right points: The student mentions occupancy sensors and Building Automation System (BAS).
-Improve on: The answer lacks detail on how occupancy sensors work and their specific role in BAS. It should explain motion detection and adjustments to lighting and temperature.
-Score: 70%
-
 ------------------------------------------------------------
 Timestamp:    2025-06-12 10:21:49
 Name:         karruppaiya karthikeyan
@@ -133,45 +120,4 @@ Right points: The answer mentions energy management and comfort optimization, wh
 Improve on: The answer lacks specifics on how occupancy sensors work (detecting motion and presence) and does not mention their direct functions (activating lighting, adjusting temperature, etc.).
 Score: 80%
 
-------------------------------------------------------------
-Timestamp:    2025-06-19 23:55:11
-Name:         test
-Question:      What is the primary function of temperature sensors in a Building Automation System (BAS)?
 
-
-Modal Answer:  Temperature sensors provide real-time data on the temperature of spaces to enable precise control of heating, ventilation, and air conditioning (HVAC) systems.
-Student Ans:  To Measure the Temperature and adjust it so as to get the optimum comfort level
-
-GPT Feedback:
-Right points: The student answer mentions measuring temperature and adjusting it for comfort.
-Improve on: The answer lacks detail. It should specify the function of temperature sensors and their role in HVAC systems.
-Score: 75%
-
-------------------------------------------------------------
-Timestamp:    2025-06-20 00:22:50
-Name:         Unni 4x
-Question:      What is the role of carbon-dioxide sensors in a Building Automation System (BAS)?  
-
-Modal Answer:  Carbon-dioxide sensors measure CO2 concentration to manage ventilation, ensuring indoor air quality while optimizing energy use by adjusting fan operations based on occupancy levels.
-Student Ans:  To judge the population of people in the room and accordingly adjust the air flow to the room
-
-GPT Feedback:
-Right points: The student mentions adjusting air flow based on occupancy, which is relevant.
-Improve on: The answer lacks specific mention of CO2 concentration measurement and does not mention ventilation management or energy optimization. It could be more detailed.
-Score: 75%
-
-------------------------------------------------------------
-Timestamp:    2025-06-20 16:28:38
-Name:         VVVVV
-Question:      What is the role of temperature sensors in a Building Automation System (BAS)?
-
-
-Modal Answer:  Temperature sensors provide real-time data on the warmth or coolness of spaces, enabling precise modulation of heating and cooling systems.
-Student Ans:  temperature
-
-GPT Feedback:
-Right points: None.
-Improve on: The answer is incomplete. It should provide more information about temperature sensors and their function.
-Score: 20%
-
-------------------------------------------------------------
