@@ -174,3 +174,37 @@ Improve on: The answer lacks detail about modulation of heating, cooling, and ve
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 06:40:22
+Name:         Sylvester Ong Woen Taq
+Question:      What is the primary function of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  They serve as a reliable proxy for human occupancy, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy use.
+Student Ans:  The primary function of carbon dioxide (CO₂) sensors in a Building Automation System (BAS) is to monitor indoor air quality and control ventilation systems to maintain a healthy and energy-efficient environment.
+
+Specifically, CO₂ sensors are used to:
+Measure Occupancy Levels: Since people exhale CO₂, the concentration of CO₂ in a space correlates with the number of occupants. Higher CO₂ levels usually indicate more people are present.
+
+Enable Demand-Controlled Ventilation (DCV): The BAS uses CO₂ readings to adjust the ventilation rate dynamically. When CO₂ levels rise above a set threshold, the system increases fresh air intake; when levels are low, it reduces ventilation to save energy.
+
+Maintain Indoor Air Quality (IAQ): Keeping CO₂ within safe levels (typically below 1000 ppm) ensures occupants remain alert, comfortable, and healthy, reducing complaints and improving productivity.
+
+Summary:
+CO₂ sensors in BAS optimize ventilation based on real-time occupancy to ensure air quality and reduce energy consumption.
+
+GPT Feedback:
+Right points: **  
+- CO₂ sensors monitor indoor air quality.  
+- They control ventilation systems for a healthy environment.  
+- CO₂ levels correlate with occupancy.  
+- They enable demand-controlled ventilation.  
+- Maintaining safe CO₂ levels improves productivity.  
+
+**
+Improve on: **  
+- The answer could explicitly mention that CO₂ sensors serve as a proxy for human occupancy.  
+- Include the phrase "reduce energy use" in the context of optimizing indoor air quality.  
+
+**
+Score: ** 85%
+
+------------------------------------------------------------
