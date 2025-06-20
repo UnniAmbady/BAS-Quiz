@@ -42,7 +42,7 @@ def ask_name_popup():
 
 
 if not st.session_state.Name and not st.session_state.asked_name:
-    ask_name_popup():
+    ask_name_popup()
     st.stop() #Stop only if name is Empty
 else:
     # --- Show title, Name and description ---
