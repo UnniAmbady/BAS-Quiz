@@ -47,7 +47,7 @@ if not st.session_state.Name:
     name = st.chat_input("Please enter your Name to begin:")
     if name:
         st.session_state.Name = name.strip()
-        st.session_state.asked_name = True #Unni Added
+        st.session_state.asked_name = False #Unni Added
         st.stop() 
     st.stop() 
 else:
