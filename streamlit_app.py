@@ -9,6 +9,8 @@ from github import Github, GithubException
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/UnniAmbady/BAS-Quiz/main/BAS_Notes.pdf"
 
 # --- GLOBAL STATE ---
+if "st_named" not in st.session_state:
+    st.session_state.st_named = 0
 if "Name" not in st.session_state:
     st.session_state.Name = ""
 if "asked_name" not in st.session_state:
@@ -41,14 +43,14 @@ def ask_name_popup():
     return False  # not yet submitted
 
 
-if not st.session_state.Name:
+if not st.session_state.st_named:
     st.title("📄 BAS Knowledge Test🎈")
     st.warning("Please enter your Name to begin:")
     name = st.chat_input("Please enter your Name to begin:")
     if name:
         st.session_state.Name = name.strip()
-        st.session_state.asked_name = True #Unni Added
-        st.stop() 
+        st.session_state.st_named = 1  # <--- THIS LINE CONTROLS THE STATE!
+        st.stop()                      # <--- This ensures the screen updates instantly
     st.stop() 
 else:
     # --- Show title, Name and description ---
