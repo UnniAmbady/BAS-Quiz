@@ -51,8 +51,8 @@ if not st.session_state.st_named:
         st.session_state.Name = name.strip()
         st.session_state.st_named = 1  # <--- THIS LINE CONTROLS THE STATE!
         #st.stop()                      # <--- This ensures the screen updates instantly
-        continue
-    #st.stop() 
+        st.rerun() 
+    st.stop() 
 else:
     # --- Show title, Name and description ---
     st.title("📄 BAS Knowledge Test🎈")
