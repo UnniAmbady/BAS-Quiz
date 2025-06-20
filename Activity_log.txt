@@ -468,3 +468,22 @@ Improve on: The answer lacks specificity about real-time data and modulation of 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 07:58:20
+Name:         Ong Guan Heng
+Question:      What is the role of carbon-dioxide sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors help control ventilation by measuring CO2 concentration, which indicates human occupancy levels, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy consumption.
+Student Ans:  Carbon dioxide sensors play a crucial role in Building Automation Systems (BAS) by monitoring and controlling indoor air quality. Here's how they contribute:
+
+- Improving Energy Efficiency: CO2 sensors enable precise control of ventilation systems, reducing energy consumption and operational costs by avoiding unnecessary air circulation.
+- Enhancing Occupant Comfort: By maintaining optimal indoor air quality, CO2 sensors create a healthier and more comfortable environment for building occupants, which can lead to increased productivity and well-being.
+- Optimizing Ventilation: CO2 sensors detect rising CO2 levels and send signals to the BAS or economizer control system to increase outdoor air intake, ensuring a safer and more comfortable indoor environment.
+- Predictive Maintenance: CO2 sensors provide valuable data for performance analysis, supporting informed decision-making for ongoing optimization of building operation and maintenance strategies.
+
+GPT Feedback:
+Right points: Carbon dioxide sensors help control ventilation by measuring CO2 concentration. They optimize indoor air quality and reduce energy consumption.
+Improve on: The answer is correct but could be more concise. The details about BAS and predictive maintenance are good but not necessary for the main point. Focus more on CO2 concentration's role in ventilation.
+Score: 85%
+
+------------------------------------------------------------
