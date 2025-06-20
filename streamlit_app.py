@@ -33,7 +33,8 @@ def ask_name_popup():
     if st.button("Submit Name"):
         if name.strip():
             st.session_state.Name = name.strip()  # set the name in session state
-            return True  # indicate success
+            #return True  # indicate success
+            st.experimental_rerun()   #1
         else:
             st.error("Name cannot be blank.")
     return False  # not yet submitted
