@@ -45,8 +45,8 @@ if not st.session_state.Name:
     name = st.chat_input("Please enter your Name to begin:")
     if name:
         st.session_state.Name = name.strip()
-    else:
-        st.stop()
+        st.stop() 
+    #st.stop() I think no need-Let us see
 else:
     # --- Show title, Name and description ---
     st.title("📄 BAS Knowledge Test🎈")
