@@ -278,3 +278,77 @@ Improve on: The explanation could be more concise. Mentioning "proxy for human o
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 06:43:29
+Name:         Sylvester Ong Woen Taq
+Question:     What are the primary functions of a Building Automation System (BAS)?
+Modal Answer: A BAS integrates sensors, controllers, and communication networks to automate and optimize HVAC, lighting, power distribution, and security systems, enhancing energy efficiency and operational insight.
+Student Ans:  The primary functions of a Building Automation System (BAS) are to monitor, control, and optimize building systems for comfort, efficiency, safety, and operational performance.
+
+🔑 Key Functions of a BAS:
+HVAC Control (Heating, Ventilation, and Air Conditioning):
+
+Automatically regulates temperature, humidity, and air quality.
+
+Adjusts based on occupancy, time schedules, or environmental conditions.
+
+Lighting Control:
+
+Automates lighting based on occupancy sensors, daylight levels, or schedules.
+
+Helps reduce energy usage and improve occupant comfort.
+
+Energy Management:
+
+Tracks and reduces energy consumption.
+
+Identifies inefficiencies and enables energy-saving strategies.
+
+Occupant Comfort and Productivity:
+
+Maintains consistent indoor environmental conditions.
+
+Improves workplace satisfaction and performance.
+
+Security and Access Control Integration:
+
+Manages door access, surveillance, and alarms.
+
+Enhances building safety.
+
+Fire and Life Safety System Integration:
+
+Interfaces with fire alarms and emergency systems.
+
+Supports safe evacuation and emergency response.
+
+Monitoring and Diagnostics:
+
+Continuously checks system performance.
+
+Sends alerts for faults, maintenance needs, or unusual conditions.
+
+Centralized Control and Automation:
+
+Provides a unified platform for managing all building systems.
+
+Enables remote access and real-time adjustments.
+
+✅ Summary:
+A BAS automates and coordinates building systems to improve comfort, safety, energy efficiency, and operational control.
+
+
+
+
+
+
+
+
+
+
+
+GPT Feedback:
+Right points: The student accurately describes the primary functions of a BAS, including monitoring, controlling, and optimizing systems for comfort and efficiency.
+Improve on: The student should have mentioned more specifics about integration and communication networks in the BAS. Also, the answer could include the enhancement of operational insight.
+Score: 85%
+
+------------------------------------------------------------
