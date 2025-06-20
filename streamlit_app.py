@@ -34,16 +34,16 @@ def ask_name_popup():
         if name.strip():
             st.session_state.Name = name.strip()  # set the name in session state
             #return True  # indicate success
+            st.session_state.asked_name = True  # <--- NEW LINE
             st.stop() 
         else:
             st.error("Name cannot be blank.")
     return False  # not yet submitted
 
 
-
-if not st.session_state.Name:
-    if not ask_name_popup():
-        st.stop() #Stop only if name is Empty
+if not st.session_state.Name and not st.session_state.asked_name:
+    ask_name_popup():
+    st.stop() #Stop only if name is Empty
 else:
     # --- Show title, Name and description ---
     st.title("📄 BAS Knowledge Test🎈")
