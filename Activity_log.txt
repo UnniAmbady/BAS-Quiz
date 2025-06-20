@@ -352,3 +352,41 @@ Improve on: The student should have mentioned more specifics about integration a
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 06:44:25
+Name:         Sylvester Ong Woen Taq
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the temperature of spaces, allowing the BAS to modulate heating, cooling, and ventilation for optimal comfort and energy efficiency.
+Student Ans:  The primary purpose of temperature sensors in a Building Automation System (BAS) is to monitor indoor and outdoor temperatures and provide accurate data to control heating, ventilation, and air conditioning (HVAC) systems for optimal comfort and energy efficiency.
+
+🔑 Key Roles of Temperature Sensors in BAS:
+Maintain Comfort:
+
+Ensure rooms stay within desired temperature ranges for occupant comfort.
+
+Enable Precise HVAC Control:
+
+Provide real-time data to BAS so it can adjust heating or cooling output as needed.
+
+Improve Energy Efficiency:
+
+Prevent overcooling or overheating by enabling demand-based HVAC operation.
+
+Support Zoning:
+
+Allow different temperature settings in different areas (zones) of the building.
+
+Monitor Equipment Performance:
+
+Help detect faults or inefficiencies in HVAC systems by identifying abnormal temperature patterns.
+
+✅ Summary:
+Temperature sensors in a BAS provide critical data to control HVAC systems, ensuring comfort, efficiency, and reliable system performance.
+
+GPT Feedback:
+Right points: The student accurately states the purpose of temperature sensors in a BAS, emphasizing their role in monitoring temperatures and controlling HVAC systems for comfort and efficiency.
+Improve on: The answer could be more concise. The term "indoor and outdoor temperatures" is somewhat redundant when discussing BAS, which primarily focuses on indoor conditions. The summary could be simplified to avoid repetition of ideas.
+Score: 85%
+
+------------------------------------------------------------
