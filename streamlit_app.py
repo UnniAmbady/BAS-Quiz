@@ -49,7 +49,7 @@ if not st.session_state.Name:
         st.session_state.Name = name.strip()
         st.session_state.asked_name = True #Unni Added
         st.stop() 
-    #st.stop() 
+    st.stop() 
 else:
     # --- Show title, Name and description ---
     st.title("📄 BAS Knowledge Test🎈")
