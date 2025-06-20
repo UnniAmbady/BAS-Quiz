@@ -121,3 +121,16 @@ Improve on: The answer lacks specifics on how occupancy sensors work (detecting 
 Score: 80%
 
 
+Timestamp:    2025-06-20 17:09:57
+Name:         Abcd
+Question:      What are the primary benefits of an Integrated Building Management System (IBMS)?  
+
+Modal Answer:  An IBMS consolidates disparate subsystems into a unified platform, improving response time, reducing capital and operating costs, and providing a panoramic view of alarms and trends for better operational insight.
+Student Ans:  To integrate all the subsystems and create a user interface to manage the building effectively
+
+GPT Feedback:
+Right points: Integrate all the subsystems. Create a user interface. Manage the building.
+Improve on: The answer lacks detail on benefits like response time, cost reduction, and operational insight. It should mention a unified platform and specific improvements.
+Score: 70%
+
+------------------------------------------------------------
