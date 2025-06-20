@@ -134,3 +134,17 @@ Improve on: The answer lacks detail on benefits like response time, cost reducti
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-20 17:25:22
+Name:         UNni
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+
+Temperature sensors are essential in a BAS as they provide real-time data on the space’s temperature, allowing for precise modulation of set-points and energy algorithms to maintain comfort and energy efficiency.
+Modal Answer: 
+Student Ans:  Temperature sensors are essential in a BAS as they provide real-time data on the space’s temperature, allowing for precise modulation of set-points and energy algorithms to maintain comfort and energy efficiency.
+
+GPT Feedback:
+Right points: Temperature sensors are essential in a BAS. They provide real-time data on temperature. They help maintain comfort and energy efficiency.
+Improve on: The phrase "modulation of set-points and energy algorithms" could be simplified for clarity. Consider rephrasing to "adjust set-points and optimize energy use."
+Score: 85%
+
+------------------------------------------------------------
