@@ -41,9 +41,13 @@ def ask_name_popup():
     return False  # not yet submitted
 
 
-if not st.session_state.Name and not st.session_state.asked_name:
-    ask_name_popup()
-    st.stop() #Stop only if name is Empty
+if not st.session_state.Name:
+    name = st.chat_input("Please enter your Name to begin:")
+    if name:
+        st.session_state.Name = name.strip()
+        st.experimental_rerun()  # Only if your Streamlit version supports it; otherwise, omit
+    else:
+        st.stop()
 else:
     # --- Show title, Name and description ---
     st.title("📄 BAS Knowledge Test🎈")
