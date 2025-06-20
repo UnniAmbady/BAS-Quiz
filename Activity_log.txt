@@ -148,3 +148,16 @@ Improve on: The phrase "modulation of set-points and energy algorithms" could be
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-20 17:27:33
+Name:         XXXX
+Question:      What is the role of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentration to control ventilation based on occupancy levels, optimizing indoor air quality and energy efficiency.
+Student Ans:  To measure the Co2 and indirectly measure the peoples population or crowed size. This is to help to adjust the air conditioner to allow more or less fresh air as per the demand
+
+GPT Feedback:
+Right points: The answer mentions measuring CO2 and adjusting ventilation based on demand.
+Improve on: "Co2" should be "CO2." "peoples population or crowed size" should be "people's population or crowd size." The phrase "allow more or less fresh air" is vague; it could be clearer as "control ventilation for better air quality."
+Score: 80%
+
+------------------------------------------------------------
