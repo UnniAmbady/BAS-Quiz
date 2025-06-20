@@ -45,7 +45,6 @@ if not st.session_state.Name:
     name = st.chat_input("Please enter your Name to begin:")
     if name:
         st.session_state.Name = name.strip()
-        st.experimental_rerun()  # Only if your Streamlit version supports it; otherwise, omit
     else:
         st.stop()
 else:
