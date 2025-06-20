@@ -46,7 +46,7 @@ if not st.session_state.Name:
     if name:
         st.session_state.Name = name.strip()
         st.stop() 
-    #st.stop() I think no need-Let us see
+    st.stop() 
 else:
     # --- Show title, Name and description ---
     st.title("📄 BAS Knowledge Test🎈")
