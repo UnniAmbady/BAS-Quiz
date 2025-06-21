@@ -1795,3 +1795,16 @@ Improve on: The answer should explain what an IBMS is and its function. For exam
 Score: 0%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:37:03
+Name:         Kaung Htet
+Question:      What is the primary function of occupancy sensors in a Building Automation System?  
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting, adjust temperature set-points, or place terminal units into standby.
+Student Ans:  The primary function of occupancy sensors in a Building Automation System (BAS) is to detect the presence or absence of people in a space and use that information to automatically control building systems 1. Lighting Control 2. HVAC Control 3. Energy Efficiency 4.Security and Safety.
+
+GPT Feedback:
+Right points: The answer mentions detecting presence and controlling systems like lighting and HVAC.
+Improve on: The answer includes extra points like energy efficiency and security that are not directly related to the primary function of occupancy sensors. It should focus on lighting and HVAC control as the main functions.
+Score: 85%
+
+------------------------------------------------------------
