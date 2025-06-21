@@ -2225,3 +2225,16 @@ Improve on: The answer lacks detail about temperature adjustment and energy opti
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 19:42:41
+Name:         Tamilzharsan Aiyappan
+Question:      What does an Intelligent Building Management System (IBMS) primarily focus on?  
+
+Modal Answer:  An IBMS focuses on data-driven autonomy and continuous learning to optimize building performance and efficiency.
+Student Ans:  integrating, monitoring, and controlling various building systems to enhance energy efficiency, occupant comfort, safety, and operational performances 
+
+GPT Feedback:
+Right points: Integrating, monitoring, and controlling various building systems. Enhancing energy efficiency, occupant comfort, safety, and operational performances.
+Improve on: Does not mention data-driven autonomy or continuous learning. Should emphasize optimization of building performance and efficiency.
+Score: 75%
+
+------------------------------------------------------------
