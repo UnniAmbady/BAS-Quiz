@@ -1217,3 +1217,17 @@ Improve on: The answer is mostly correct but could be more concise. It could exp
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 12:23:11
+Name:         Jordan Ng
+Question:      What role do carbon-dioxide sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors help control ventilation by serving as a proxy for human occupancy intensity, allowing the BAS to optimize air quality and reduce energy consumption.
+Student Ans:  Its a common reliable proxy for human occupancy intensity with nondispersive infrared (NDIR) cells continually comparing reference and sample wavelengths. It also enables demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: The student mentions reliable proxy for occupancy intensity, NDIR cells, and demand-controlled ventilation.
+Improve on: The answer lacks clarity on how carbon-dioxide sensors specifically help control ventilation. It should explicitly connect the sensor's role to optimizing air quality and reducing energy consumption.
+Score: 85%
+
+------------------------------------------------------------
