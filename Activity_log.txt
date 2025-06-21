@@ -1550,3 +1550,16 @@ Improve on: The answer is too vague and lacks focus on the key elements like ene
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:49:08
+Name:         karuppiah rajkumar
+Question:      What is the primary function of occupancy sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting and adjust temperature set-points as needed.
+Student Ans:  to monitor the building activities
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer does not address the main function of occupancy sensors. It should mention detecting motion and presence to activate lighting and adjust temperature.
+Score: 60%
+
+------------------------------------------------------------
