@@ -2094,3 +2094,16 @@ Improve on: The student answer is overly complex and includes unnecessary techni
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 17:04:19
+Name:         CHANDRA SEKAR KARTHIKEYAN
+Question:      What role do carbon-dioxide sensors play in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors enable demand-controlled ventilation by indicating occupancy intensity, which helps to optimize indoor air quality and reduce energy use.
+Student Ans:  Roles of carbon-dioxide sensors to maintain indoor air quality, Optimize ventilation based on occupancy, improve energy efficiency and support sustainability and occupant health. Carbon-dioxide sensors are now commonplace in ventilation control schemes because CO2 concentration serves as a reliable proxy for human occupancy intensity, nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: The answer mentions the roles of carbon-dioxide sensors, their impact on indoor air quality, energy efficiency, and their use in ventilation control.
+Improve on: The wording could be more concise. The phrase "roles of carbon-dioxide sensors" could be simplified to "Carbon-dioxide sensors maintain air quality." The explanation about NDIR cells is relevant but too technical for a brief answer.
+Score: 85%
+
+------------------------------------------------------------
