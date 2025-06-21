@@ -2380,3 +2380,15 @@ Improve on: "detect temperature, humidity, and occupancy" - should specify the r
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:15:23
+Name:         Subramani Prakash
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors are essential as they provide real-time data on the comfort levels within a space, allowing the BAS to adjust heating and cooling systems accordingly.
+Student Ans:  Temperature sensors are essential as they provide real-time data on the comfort levels within a space, allowing the BAS to adjust heating and cooling systems accordingly.
+
+GPT Feedback:
+Right points: The student answer is identical to the correct answer.
+Improve on: None. The student answer is correct.
+Score: 100%
+
+------------------------------------------------------------
