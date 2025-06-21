@@ -2026,3 +2026,16 @@ Improve on: The answer misses the aspect of linking sensors, controllers, and co
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 16:53:39
+Name:         Waing Sandar
+Question:      What key function do carbon-dioxide sensors serve in a Building Automation System (BAS)?  
+
+Modal Answer:  They act as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to optimize indoor air quality and energy efficiency.
+Student Ans:  The key function of carbon-dioxide sensors is to sense the carbon-dioxide and then control the operation of equipment, panels, system such as fan, dampers, and ventilation system. By controlling smoke, life-beings can be secured from fire. And then, it can be saved energy consumption as long as it doesn't need to operate exhaust fan and Fresh air fan unless fire case occurs.
+
+GPT Feedback:
+Right points: The key function of carbon-dioxide sensors is to sense carbon-dioxide and control equipment for ventilation. It can save energy consumption.
+Improve on: "such as fan, dampers, and ventilation system" should be "such as fans, dampers, and ventilation systems." "life-beings" should be "living beings." "And then, it can be saved energy consumption" should be "This can save energy." "as long as it doesn't need to operate exhaust fan and Fresh air fan unless fire case occurs" should be "unless a fire occurs."
+Score: 80%
+
+------------------------------------------------------------
