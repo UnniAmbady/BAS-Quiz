@@ -2157,3 +2157,16 @@ Improve on: The student answer contains excessive detail and some grammatical is
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 17:23:57
+Name:         Tay Yew San
+Question:      What is the main function of a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS integrates sensors, controllers, and communication networks to automate and optimize HVAC, lighting, and security systems in buildings.
+Student Ans:  Building Automation Systems, or BAS, form the digital nervous system of contemporary facilities by linking sensors, controllers and communication networks so that HVAC, lighting, power distribution, fire protection, vertical transport and security assets behave as coordinated parts of a living organism. The system gathers real-time data, executes control algorithms at the edge or centrally and records performance trends for later verification and tuning. In doing so it keeps temperatures, airflow rates, illumination levels and differential pressures within tight tolerances while automatically shedding loads when spaces are unoccupied or utility demand charges spike. Because its architecture is layered- from field devices through floor controllers to a supervisory workstation - a BAS can scale from a single-Storey clinic to an airport terminal, delivering energy savings, longer equipment life and richer operational insight than any collection of standalone controls.
+
+GPT Feedback:
+Right points: A BAS integrates sensors, controllers, and communication networks to automate and optimize HVAC, lighting, and security systems in buildings.
+Improve on: The answer is overly detailed and includes unnecessary information. It should focus more on the core definition rather than elaborate descriptions. Simplify to match the original answer's brevity.
+Score: 85%
+
+------------------------------------------------------------
