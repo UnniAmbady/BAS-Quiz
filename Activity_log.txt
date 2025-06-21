@@ -2182,3 +2182,17 @@ Improve on: The phrase "form the backbone of every Building Automation System" i
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 18:40:54
+Name:         Chin Lan Heong
+Question:     What is the main purpose of a Building Automation System (BAS)?
+Modal Answer: A BAS links sensors, controllers, and communication networks to optimize the operation of HVAC, lighting, and security systems in buildings for improved efficiency and comfort.
+Student Ans:  BAS forms the digital nervous system of contemporary facilities by linking
+sensors, controllers and communication networks so that HVAC, lighting, power distribution, fire protection, vertical transport and security assets behave as coordinated parts of a living organism. 
+The system gathers real-time data, executes control algorithms at the edge or centrally and records performance trends for later verification and tuning.
+
+GPT Feedback:
+Right points: BAS links sensors, controllers, and communication networks to optimize operations of HVAC, lighting, and security systems. It improves efficiency and comfort.
+Improve on: The student answer includes additional elements (power distribution, fire protection, vertical transport) that are not mentioned in the correct answer. The phrase "digital nervous system" is more metaphorical and less precise than "optimize operation." The explanation of data gathering and performance trends is extra detail not found in the correct answer.
+Score: 85%
+
+------------------------------------------------------------
