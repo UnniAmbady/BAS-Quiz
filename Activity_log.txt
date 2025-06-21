@@ -2955,3 +2955,17 @@ Improve on: The phrase "are now commonplace in ventilation control schemes" is l
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 23:52:16
+Name:         Mohamad Alfie
+Question:      What is the role of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on indoor temperatures, allowing the BAS to modulate heating and cooling effectively to maintain comfort and energy efficiency.
+Student Ans:  These devices measure variations of diverse environmental conditions in the building, which include temperature, humidity, occupancy, light level, and air quality. For example, temperature sensors might measure indoor temperatures, while occupancy sensors will determine whether a room is occupied.
+
+GPT Feedback:
+Right points: Temperature sensors measure indoor temperatures.
+Improve on: The answer does not specifically mention how temperature sensors help in modulating heating and cooling or maintaining energy efficiency.
+Score: 80%
+
+------------------------------------------------------------
