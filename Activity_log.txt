@@ -1231,3 +1231,17 @@ Improve on: The answer lacks clarity on how carbon-dioxide sensors specifically 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 12:23:42
+Name:         LOGANATHAN MANIVASAGAM
+Question:      What is the role of occupancy sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting, adjust temperature set-points, or place terminal units in standby, helping to optimize energy usage and enhance comfort.
+Student Ans:  energy efficienct, comfort optimization,security, automation,energy cost reduction, operation efficiency is high
+
+GPT Feedback:
+Right points: "comfort optimization," "energy cost reduction," "operation efficiency is high."
+Improve on: "energy efficienct" should be "energy efficient," "security" is not mentioned in the correct answer, "automation" is vague, and lacks context.
+Score: 70%
+
+------------------------------------------------------------
