@@ -761,3 +761,16 @@ Improve on: The answer is incorrect as it does not mention occupancy sensors or 
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 09:26:26
+Name:         luqman hafiz
+Question:      What is an Integrated Building Management System (IBMS)?  
+
+Modal Answer:  An IBMS overlays a unifying software platform on disparate subsystems, allowing for consolidated management of various building systems like HVAC, lighting, and security through one interface.
+Student Ans:  it is a system to monitor the M&E services of the building. example ACMV venitlation, lightings, fire safety, security, energy managements and etc. 
+
+GPT Feedback:
+Right points: The student mentions monitoring M&E services and lists relevant systems.
+Improve on: The answer lacks clarity on the concept of an IBMS. It should explain that it overlays a unifying platform for consolidated management. Also, "venitlation" should be corrected to "ventilation," and "energy managements" should be "energy management." "And etc." is redundant; use "etc." instead.
+Score: 75%
+
+------------------------------------------------------------
