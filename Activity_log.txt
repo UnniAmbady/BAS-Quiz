@@ -1189,3 +1189,17 @@ Improve on: The answer lacks mention of the single database and interface aspect
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 12:16:14
+Name:         Venkatachalam Varun
+Question:      What function do carbon-dioxide sensors serve in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors help manage ventilation by providing data on occupancy levels, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy consumption.
+Student Ans:  CO2 sensors are used to monitor indoor air quality by measuring the concentration of co2 in the environment, additionally, it enhances energy efficiency by adjusting ventilation only when needed, rather than running it constantly.
+
+GPT Feedback:
+Right points: CO2 sensors monitor indoor air quality, enhance energy efficiency, and adjust ventilation based on need.
+Improve on: The answer should specify that CO2 sensors provide data on occupancy levels and enable demand-controlled ventilation.
+Score: 85%
+
+------------------------------------------------------------
