@@ -1783,3 +1783,15 @@ Improve on: The answer lacks detail about demand-controlled ventilation and how 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:36:38
+Name:         Nyi NYi Aung
+Question:     What is an Integrated Building Management System (IBMS) designed to do?
+Modal Answer: An IBMS overlays a unifying software platform on disparate subsystems to provide a single operational picture and enable coordinated control across various building functions.
+Student Ans:  Nyi Nyi Aung
+
+GPT Feedback:
+Right points: None. The student's answer does not address the question.
+Improve on: The answer should explain what an IBMS is and its function. For example, "An IBMS overlays a unifying software platform on disparate subsystems to provide a single operational picture and enable coordinated control across various building functions."
+Score: 0%
+
+------------------------------------------------------------
