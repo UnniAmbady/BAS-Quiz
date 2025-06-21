@@ -1663,3 +1663,17 @@ Improve on: "primary role" should be "the primary role." "to the Building Automa
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 14:13:37
+Name:         SUPAN JOHN PHILBERT DIZON
+Question:      What key feature allows an Intelligent Building Management System (IBMS) to optimize energy use in real-time?
+
+
+Modal Answer:  Data-driven autonomy and continuous learning through streaming sensor feeds to edge or cloud analytics.
+Student Ans:  Intelligent Building Management System (IBMS) collects and analyze real-time data and adjusts based on the changing conditions to minimize energy wastage and maximize comfort
+
+GPT Feedback:
+Right points: The student mentions collecting and analyzing real-time data, which aligns with data-driven autonomy.
+Improve on: The answer lacks emphasis on streaming sensor feeds. It should mention edge or cloud analytics for completeness.
+Score: 85%
+
+------------------------------------------------------------
