@@ -2841,3 +2841,17 @@ Improve on: The answer lacks detail about real-time data and zone controllers. I
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 22:50:50
+Name:         Chockalingam Vigneshwaran
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data to zone controllers, enabling precise modulation of heating, cooling, and energy algorithms essential for maintaining comfort levels.
+Student Ans:   These sensors measure the ambient temperature in different areas of a building.
+
+GPT Feedback:
+Right points: Temperature sensors measure ambient temperature.
+Improve on: The answer lacks detail on how the data is used. It should mention real-time data, zone controllers, and modulation for comfort levels.
+Score: 75%
+
+------------------------------------------------------------
