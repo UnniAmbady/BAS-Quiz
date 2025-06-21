@@ -1390,3 +1390,25 @@ Improve on: The student answer lacks mention of reducing energy consumption. It 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:39:41
+Name:         Tan Juay Hwa
+Question:      What role do carbon-dioxide sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentration to manage ventilation needs based on occupancy, helping maintain indoor air quality and reduce energy costs.
+Student Ans:  Carbon dioxide (CO₂) sensors play a crucial role in a Building Automation System (BAS) by helping to maintain indoor air quality and optimize energy efficiency.
+Here’s how they contribute:
+- Demand-Controlled Ventilation (DCV): CO₂ sensors monitor the concentration of carbon dioxide in occupied spaces. When levels rise—typically due to increased occupancy—the BAS increases ventilation to bring in more fresh air. When levels drop, it reduces ventilation to save energy.
+- Occupant Comfort and Health: Elevated CO₂ levels can lead to drowsiness, headaches, and reduced cognitive function. By keeping CO₂ within recommended thresholds, the BAS ensures a healthier and more productive environment.
+- Energy Optimization: Instead of running HVAC systems at full capacity all the time, CO₂ sensors allow the BAS to adjust airflow based on actual need. This reduces unnecessary heating, cooling, and fan energy use.
+- Regulatory Compliance: Many building codes and green certifications (like LEED) require monitoring of indoor air quality, including CO₂ levels. Integrating these sensors helps meet those standards.
+- Data-Driven Insights: The data collected can be used for predictive maintenance, space utilization analysis, and long-term energy planning.
+
+In addition, if a space whereby cooking involves naked flame, high CO2 can lead to production of carbon monoxide. High concentration of CO can be deadly
+
+GPT Feedback:
+Right points: The student accurately explains the role of CO₂ sensors in maintaining indoor air quality, optimizing energy efficiency, and regulating ventilation based on occupancy.
+Improve on: The answer could be more concise and focused on the main points. The mention of carbon monoxide production from cooking with naked flames is somewhat off-topic and not directly related to the primary function of CO₂ sensors.
+Score: 85%
+
+------------------------------------------------------------
