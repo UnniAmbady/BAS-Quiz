@@ -1280,3 +1280,15 @@ Improve on: - The answer lacks mention of "real-time data" for thermal condition
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 12:26:57
+Name:         Venkatachalam Varun
+Question:     What is the role of occupancy sensors in a Building Automation System (BAS)?
+Modal Answer: Occupancy sensors detect motion and presence to activate lighting, reset temperature set-points, or place terminal units into standby, helping optimize energy usage and space efficiency.
+Student Ans:  Occupancy sensors role in BAS - Detect the presence or absence of people in a room or area. Based on this data, the BAS can automatically control lighting, HVAC, and other systems to optimize energy use. For example, lights and air conditioning can turn off when no one is present, reducing unnecessary energy consumption. These sensors also enhance comfort by activating systems only when needed and improve building security by monitoring movement. Overall, occupancy sensors help increase energy efficiency, reduce operational costs, and support smart building operations.
+
+GPT Feedback:
+Right points: Occupancy sensors detect presence to control lighting and HVAC, optimizing energy use.
+Improve on: The phrase "role in BAS" is slightly unclear; it could be more directly stated as "Occupancy sensors in BAS." The explanation is mostly correct but could be more concise.
+Score: 85%
+
+------------------------------------------------------------
