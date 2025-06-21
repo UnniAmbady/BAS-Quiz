@@ -2211,3 +2211,17 @@ Improve on: "serves" should be "to serve." The answer lacks mention of adjusting
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 19:42:13
+Name:         Annadurai Manickam
+Question:      What role do occupancy sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting, adjust temperature set-points, and optimize energy use based on real-time space utilization.
+Student Ans:  Occupancy sensors can turn on/Off the lights when occupants present in the room
+
+GPT Feedback:
+Right points: Occupancy sensors can turn on/off the lights when occupants are present.
+Improve on: The answer lacks detail about temperature adjustment and energy optimization. It should mention that occupancy sensors also optimize energy use based on real-time space utilization.
+Score: 80%
+
+------------------------------------------------------------
