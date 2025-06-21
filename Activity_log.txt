@@ -2406,3 +2406,17 @@ Improve on: The answer is vague on "comfort levels" and doesn't mention "zone co
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:16:31
+Name:         Subramani Prakash
+Question:      What is the primary function of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data to zone controllers to precisely modulate heating and cooling based on comfort and energy algorithms.
+Student Ans:  Temperature sensors provide real-time data to zone controllers to precisely modulate heating and cooling based on comfort and energy algorithms.
+
+GPT Feedback:
+Right points: Temperature sensors provide real-time data to zone controllers to precisely modulate heating and cooling based on comfort and energy algorithms.
+Improve on: None. The student answer is identical to the correct answer.
+Score: 100%
+
+------------------------------------------------------------
