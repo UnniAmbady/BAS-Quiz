@@ -1123,3 +1123,28 @@ Improve on: "it is to provide" should be "They provide." "achieve efficient comf
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 11:40:19
+Name:         Andrew Kiong Kheng Kiat
+Question:      What is the main purpose of a Building Automation System (BAS)?  
+
+Modal Answer:  The main purpose of a BAS is to link various systems within a building, such as HVAC and lighting, to improve operational efficiency, energy savings, and occupant comfort.
+Student Ans:  The main purpose of Building Automation System is to provide real time data to controlling units in order to achieve optimized use of energy in heating, ventilation, air conditioning (HVAC), lighting, and other systems, reducing energy consumption and operational costs.
+
+By controlling indoor environmental conditions within tight tolerances  (like temperature, humidity, and air quality), a BAS ensures a comfortable atmosphere for occupants, which can lead to increased productivity and satisfaction.
+
+BAS can also  integrate various other building systems, such as HVAC, lighting, security, and fire alarms, allowing for centralized control and monitoring. This integration enhances operational efficiency and simplifies management.
+
+BAS system continuously monitors the performance of various building systems and provides real-time data and alerts, allowing facility managers to take proactive measures when issues arise.
+
+BAS Improves Safety and Security as it can include security features such as access control, surveillance, and fire alarm systems, enhancing the overall safety and security of the building.
+
+BAS also is able to collects data on energy usage, occupancy patterns, and system performance, enabling better decision-making and long-term planning for building maintenance and future upgrades.
+
+Lastly, by optimizing building performance and reducing energy consumption, a BAS contributes to sustainability goals and helps buildings achieve green certifications.
+
+GPT Feedback:
+Right points: The main purpose of Building Automation System is to provide real-time data, optimize energy use, and ensure occupant comfort. It integrates various systems for centralized control, enhances operational efficiency, and improves safety and security. It also collects data for better decision-making and contributes to sustainability goals.
+Improve on: The term "BAS system" is redundant; it should just be "BAS." "Collects" should be "collect" for subject-verb agreement. "BAS also is able to collects" should be corrected to "BAS is also able to collect." Use "real-time" consistently.
+Score: 85%
+
+------------------------------------------------------------
