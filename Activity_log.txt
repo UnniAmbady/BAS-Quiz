@@ -1497,3 +1497,16 @@ Improve on: "Provided" should be "provides." The phrase should be "provides real
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:44:24
+Name:         karuppiah rajkumar
+Question:      What is the main function of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data to help modulate set-points, heating valve strokes, and chiller loads for optimal comfort and energy efficiency.
+Student Ans:  to provide real time data 
+
+GPT Feedback:
+Right points: Real-time data is mentioned.
+Improve on: The answer is incomplete. It lacks details about modulation of set-points, heating valve strokes, and chiller loads.
+Score: 70%
+
+------------------------------------------------------------
