@@ -2881,3 +2881,23 @@ Improve on: The answer is too detailed and focuses on the backbone of Building A
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 23:06:26
+Name:         Clinton Tan
+Question:      What is the role of carbon-dioxide sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentration to enable demand-controlled ventilation, optimizing energy use while ensuring indoor air quality.
+Student Ans:  Carbon-dioxide sensors Role 
+1) Indoor Air Quality Monitoring - now commonplace in ventilation control schemes because CO2 concentration serves as a reliable proxy for human occupancy intensity; 
+2) Demand-Controlled Ventilation (DCV), nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.  
+
+GPT Feedback:
+Right points: - Indoor Air Quality Monitoring is mentioned.
+- Demand-Controlled Ventilation (DCV) is discussed.
+- NDIR cells are referenced for CO2 measurement.
+Improve on: - The structure is unclear; it should be more concise.
+- The term "nondispersive infrared (NDIR) cells" could be simplified to enhance clarity.
+- The explanation of how it optimizes energy use could be clearer.
+Score: 85%
+
+------------------------------------------------------------
