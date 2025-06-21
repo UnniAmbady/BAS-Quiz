@@ -2420,3 +2420,15 @@ Improve on: None. The student answer is identical to the correct answer.
 Score: 100%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:17:28
+Name:         Subramani Prakash
+Question:     What does an Integrated Building Management System (IBMS) achieve compared to a traditional Building Automation System (BAS)?
+Modal Answer: An IBMS consolidates data from multiple subsystems into one platform, providing a unified interface and coordinated control for improved operational insight and efficiency.
+Student Ans:  a more comprehensive and efficient approach to building management co
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer is vague and lacks detail. It should mention data consolidation, unified interface, and improved operational insight.
+Score: 60%
+
+------------------------------------------------------------
