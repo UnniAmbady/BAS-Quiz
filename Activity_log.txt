@@ -1770,3 +1770,16 @@ Improve on: The answer lacks details about serving as a proxy for occupancy inte
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:34:48
+Name:         Kaung Htet
+Question:      What role do carbon-dioxide sensors play in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to optimize indoor air quality while reducing energy consumption.
+Student Ans:  Carbon dioxide (CO₂) sensors play a crucial role in Building Automation Systems (BAS), especially in managing indoor air quality, energy efficiency, and occupant comfort.
+
+GPT Feedback:
+Right points: Carbon dioxide (CO₂) sensors manage indoor air quality and energy efficiency.
+Improve on: The answer lacks detail about demand-controlled ventilation and how CO₂ sensors specifically optimize air quality and reduce energy consumption.
+Score: 85%
+
+------------------------------------------------------------
