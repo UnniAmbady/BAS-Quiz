@@ -1851,3 +1851,15 @@ Improve on: "are commonplace" should be "is commonplace." "that trims fan energy
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:56:16
+Name:         Zhou shengcai
+Question:     What is the purpose of carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors are used to measure CO2 concentration as a proxy for human occupancy intensity, enabling demand-controlled ventilation that improves indoor air quality and reduces energy consumption.
+Student Ans:  To adjust fresh air volume in a building based on occupant levels.
+
+GPT Feedback:
+Right points: "To adjust fresh air volume in a building based on occupant levels."
+Improve on: The answer is too brief and lacks detail about CO2 sensors, their purpose, and benefits. It should mention CO2 concentration, demand-controlled ventilation, indoor air quality, and energy consumption.
+Score: 70%
+
+------------------------------------------------------------
