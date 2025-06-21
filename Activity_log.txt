@@ -1305,3 +1305,15 @@ Improve on: The answer incorrectly mentions carbon monoxide instead of carbon di
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:07:05
+Name:         sathiya nagarajan
+Question:     What is the primary function of carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors provide reliable occupancy data to enable demand-controlled ventilation, improving indoor air quality while reducing energy consumption.
+Student Ans:  CO₂ sensors monitor the concentration of carbon dioxide in indoor spaces. Since high CO₂ levels can cause drowsiness, poor concentration, and discomfort, the BAS uses sensor data to maintain healthy air quality, especially important in densely occupied areas like meeting rooms, classrooms, and auditoriums
+
+GPT Feedback:
+Right points: CO₂ sensors monitor carbon dioxide concentration. They help maintain healthy air quality.
+Improve on: The answer lacks mention of demand-controlled ventilation and energy consumption. It should connect the importance of CO₂ levels to energy efficiency.
+Score: 85%
+
+------------------------------------------------------------
