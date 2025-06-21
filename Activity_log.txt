@@ -1075,3 +1075,15 @@ Improve on: The phrase "to alert FCC" is unclear; it should specify what FCC sta
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 11:28:49
+Name:         Andrew Kiong Kheng Kiat
+Question:     What is the primary function of temperature sensors in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors provide real-time data to zone controllers to precisely modulate heating, cooling, and ventilation, ensuring comfort and energy efficiency.
+Student Ans:  FCC stands for Fire Control Centre
+
+GPT Feedback:
+Right points: None.
+Improve on: The student answer is unrelated to the question about temperature sensors. It does not address the topic at all. A correct response should mention temperature sensors and their role in heating, cooling, and ventilation systems.
+Score: 20%
+
+------------------------------------------------------------
