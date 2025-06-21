@@ -1821,3 +1821,17 @@ Improve on: The answer lacks specific mention of CO2 levels and their direct con
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:40:13
+Name:         Nyi Nyi Aung
+Question:      What is the role of actuators in a Building Automation System (BAS)?
+
+
+Modal Answer:  Actuators convert control signals into physical actions, such as opening or closing dampers and modulating valves, to regulate airflow and fluid flows within the system.
+Student Ans:  the role of actuators in a Building Automation System (BAS) are crucial for physically implement control commands.
+
+GPT Feedback:
+Right points: Actuators are crucial for implementing control commands.
+Improve on: The answer is vague. Should specify they convert control signals into physical actions. Also, "are" should be "is" to match singular "role."
+Score: 80%
+
+------------------------------------------------------------
