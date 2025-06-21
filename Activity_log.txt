@@ -1470,3 +1470,17 @@ Improve on: The answer is mostly correct but could be more concise. The phrase "
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:43:37
+Name:         karuppiah rajkumar
+Question:      What does the Intelligent Building Management System (IBMS) eliminate in its operations?
+
+
+Modal Answer:  The IBMS replaces fixed schedules and rule sets with data-driven autonomy and continuous learning.
+Student Ans:  data and information will not been collected 
+
+GPT Feedback:
+Right points: None.
+Improve on: "data and information will not been collected" should be "data and information will be collected."
+Score: 40%
+
+------------------------------------------------------------
