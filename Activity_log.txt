@@ -2293,3 +2293,20 @@ Improve on: "warmth or coolness" could be more concise as "temperature". "BAS" s
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 19:46:55
+Name:         MAHESH JAIKISHOR
+Question:      What is the purpose of occupancy sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Occupancy sensors detect motion and presence, allowing the BAS to activate lighting and adjust temperature set-points based on room usage.
+Student Ans:  Energy Efficiency:
+Occupancy sensors help reduce energy consumption by turning off or dimming lights, adjusting HVAC systems, and managing other equipment when spaces are unoccupied.
+
+
+
+GPT Feedback:
+Right points: Occupancy sensors help reduce energy consumption by turning off lights and adjusting HVAC systems.
+Improve on: The answer does not mention the BAS (Building Automation System) or the detection of motion and presence. It lacks specifics about how sensors activate systems based on room usage.
+Score: 85%
+
+------------------------------------------------------------
