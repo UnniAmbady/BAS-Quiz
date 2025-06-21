@@ -2481,3 +2481,16 @@ Improve on: The answer does not mention "reliable proxy for human occupancy inte
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:20:34
+Name:         Subramani Prakash
+Question:      What is the main function of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  They serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to maintain indoor air quality while reducing energy consumption.
+Student Ans:  They serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to maintain indoor air quality while reducing energy consumption.
+
+GPT Feedback:
+Right points: The student answer is identical to the correct answer.
+Improve on: None needed. The answer is correct.
+Score: 100%
+
+------------------------------------------------------------
