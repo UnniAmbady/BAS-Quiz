@@ -1175,3 +1175,17 @@ Improve on: "alarm management precisely" is unclear and unnecessary. "maintainin
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 12:14:56
+Name:         LOGANATHAN MANIVASAGAM
+Question:      What is the purpose of Integrated Building Management Systems (IBMS)?
+
+
+Modal Answer:  IBMS unify various subsystems into a single database and interface, enhancing operational efficiency and enabling coordinated control across HVAC, lighting, security, and other systems.
+Student Ans:  purpose of IBMS to centralize and automate the monitoring, control, and optimization of various building systems such as HVAC, lighting, security,Access card, fire safety, and energy management
+
+GPT Feedback:
+Right points: The purpose of IBMS is to centralize monitoring, control, and optimization of building systems.
+Improve on: The answer lacks mention of the single database and interface aspect. It should also emphasize enhancing operational efficiency and coordinated control.
+Score: 85%
+
+------------------------------------------------------------
