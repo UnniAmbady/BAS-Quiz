@@ -1536,3 +1536,17 @@ Improve on: The answer is too vague. It lacks detail about the role of temperatu
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:47:57
+Name:         srinivasan
+Question:      What is the purpose of a Building Automation System (BAS)?
+
+
+Modal Answer:  A BAS links sensors, controllers, and communication networks to manage HVAC, lighting, and other building systems efficiently, enhancing comfort and energy savings.
+Student Ans:  Building automation is the use of automation and control systems to monitor and control buildingwide systems, such as HVAC, lighting, alarms, and security access and cameras. Converging these systems into a single IT-managed network infrastructure creates a smart building summary Energy Efficiency Comfort and Indoor Environment Control System Integration
+
+GPT Feedback:
+Right points: Building automation is the use of automation and control systems to monitor and control buildingwide systems.
+Improve on: The answer is too vague and lacks focus on the key elements like energy efficiency and comfort. It should specifically mention enhancing comfort and energy savings. The structure is confusing with the last part not clearly connected.
+Score: 80%
+
+------------------------------------------------------------
