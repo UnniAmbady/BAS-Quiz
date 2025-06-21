@@ -2567,3 +2567,16 @@ Improve on: The answer lacks detail about managing ventilation and energy saving
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:56:31
+Name:         Zavier Ng
+Question:      What is the main purpose of Carbon-dioxide sensors in Building Automation Systems (BAS)?  
+
+Modal Answer:  Carbon-dioxide sensors help manage ventilation by indicating human occupancy intensity, enabling demand-controlled ventilation to maintain indoor air quality while reducing energy usage.
+Student Ans:  Carbon-dioxide sensors help manage ventilation by detecting CO2 concentration, which indicates occupancy levels, allowing for demand-controlled ventilation to optimize indoor air quality and save energy.
+
+GPT Feedback:
+Right points: Carbon-dioxide sensors help manage ventilation by detecting CO2 concentration, which indicates occupancy levels. This allows for demand-controlled ventilation to optimize indoor air quality and save energy.
+Improve on: The phrase "indicating human occupancy intensity" could be more clearly stated as "indicating occupancy levels." The term "optimize" is slightly different from "maintain," but both convey a similar meaning in this context.
+Score: 88%
+
+------------------------------------------------------------
