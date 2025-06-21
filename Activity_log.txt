@@ -749,3 +749,15 @@ Improve on: The student answer does not mention CO2 concentration or human occup
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 09:24:28
+Name:         luqman hafiz
+Question:     What is the main function of occupancy sensors in a Building Automation System (BAS)?
+Modal Answer: Occupancy sensors detect motion and presence to activate lighting, reset temperature set-points, or place terminal units into standby, optimizing energy use based on real-time space utilization.
+Student Ans:  to monitor indoor air quality and control the ventilation of the room
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer is incorrect as it does not mention occupancy sensors or their functions related to lighting, temperature, or energy optimization. It should focus on motion and presence detection.
+Score: 60%
+
+------------------------------------------------------------
