@@ -1591,3 +1591,17 @@ Improve on: - "to collecet" should be "to collect" - Missing details about HVAC 
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:51:55
+Name:         Nagarajsathish kumar
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide essential data on the warmth or coolness of spaces, allowing the BAS to modulate heating, cooling, and energy algorithms precisely for optimal comfort and efficiency.
+Student Ans:  Data collection and analysis . Equipment monitoring and protective maintenance , indoor air quality management .
+
+GPT Feedback:
+Right points: The student mentions data collection and monitoring, which is relevant.
+Improve on: The answer lacks specifics about temperature sensors and their role in BAS. It should include how temperature sensors impact heating, cooling, and efficiency.
+Score: 70%
+
+------------------------------------------------------------
