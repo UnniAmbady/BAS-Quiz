@@ -2252,3 +2252,18 @@ Improve on: Lacks mention of real-time data, modulation of systems. Should inclu
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 19:45:26
+Name:         MAHESH JAIKISHOR
+Question:     What key role do temperature sensors play in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors provide real-time data essential for modulating heating, cooling, and ventilation to maintain comfort and energy efficiency.
+Student Ans:  HVAC System Control
+Feed data to control systems for heating, ventilation, and air conditioning (HVAC).
+
+Enable automated adjustments, such as turning on heating or cooling based on setpoint comparisons.
+
+GPT Feedback:
+Right points: Temperature sensors provide real-time data for HVAC control. Automated adjustments are essential.
+Improve on: The answer lacks detail on energy efficiency and comfort. It should mention the importance of maintaining these aspects.
+Score: 85%
+
+------------------------------------------------------------
