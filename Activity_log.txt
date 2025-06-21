@@ -589,3 +589,28 @@ Improve on: **
 Score: ** 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 08:02:25
+Name:         Ong Guan Heng
+Question:      What is a key advantage of using an Integrated Building Management System (IBMS) over standalone controls?  
+
+Modal Answer:  An IBMS consolidates data from various subsystems into one interface, improving operational insight and response times while reducing costs.
+Student Ans:  Centralized Monitoring and Control
+IBMS integrates various building systems, such as:
+
+1. HVAC
+2. Lighting
+3. Security
+4. Energy management
+
+into a single platform, enabling:
+
+1. Real-time monitoring
+2. Centralized control
+3. Data-driven decision-making
+
+GPT Feedback:
+Right points: IBMS integrates various building systems into a single platform. It enables real-time monitoring and centralized control.
+Improve on: The student answer lacks mention of operational insight and response times. It should also include cost reduction as part of the benefits.
+Score: 85%
+
+------------------------------------------------------------
