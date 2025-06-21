@@ -520,3 +520,26 @@ Improve on: The answer could be more concise. The introductory sentence could su
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 08:00:15
+Name:         Ong Guan Heng
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the thermal conditions of spaces, enabling accurate modulation of set-points and energy algorithms to maintain comfort and efficiency.
+Student Ans:  Temperature sensors in a Building Automation System (BAS) play a crucial role by:
+
+1. Monitoring temperature: Measuring temperature in various areas, such as rooms, ducts, or equipment.
+2. Controlling HVAC systems: Regulating heating, ventilation, and air conditioning to maintain optimal temperatures.
+3. Optimizing energy efficiency: Helping to reduce energy consumption by optimizing heating and cooling operations.
+4. Ensuring occupant comfort: Maintaining comfortable temperatures for building occupants.
+
+GPT Feedback:
+Right points: - Temperature sensors monitor temperature.
+- They control HVAC systems.
+- They optimize energy efficiency.
+- They ensure occupant comfort.
+Improve on: - The answer lacks the emphasis on real-time data and modulation of set-points.
+- Should mention thermal conditions and energy algorithms for clarity.
+Score: 85%
+
+------------------------------------------------------------
