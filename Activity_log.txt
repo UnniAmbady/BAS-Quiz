@@ -2829,3 +2829,15 @@ Improve on: "to be collect" should be "to collect." The phrase "share this data 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 22:48:02
+Name:         Chockalingam Vigneshwaran
+Question:     What is the primary function of temperature sensors in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors provide real-time data to zone controllers to modulate heating, cooling, and other comfort-related functions effectively.
+Student Ans:  Primary function is to collect temperature readings, turn heating, cooling, and fans on and off.
+
+GPT Feedback:
+Right points: Primary function is to collect temperature readings. Turn heating, cooling, and fans on and off.
+Improve on: The answer lacks detail about real-time data and zone controllers. It should mention modulation of functions for comfort.
+Score: 80%
+
+------------------------------------------------------------
