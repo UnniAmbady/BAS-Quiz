@@ -2145,3 +2145,15 @@ Improve on: "Cardon-dioxide" should be "Carbon-dioxide." "Nondispersive infrared
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 17:15:07
+Name:         CHANDRA SEKAR KARTHIKEYAN
+Question:     What is the primary function of temperature sensors in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors provide real-time data on how warm or cool a space is, enabling precise modulation of heating, cooling, and ventilation.
+Student Ans:  Temperature sensor  function are Lower the air conditioning in rooms that are already cool and increase heat in colder areas, turn off HAVC in unoccupied conference rooms, based on both temperature and occupancy sensors. Temperature sensors form the backbone of every Building Automation System because nearly all comfort and energy algorithms depend on knowing how warm or cool a space, duct, or piece of equipment is, whether based on thermistors, RTDs, or semiconductor ICs, they feed real-time data to zone controllers so that set-points, heating valve strokes, and chiller loads can be modulated precisely rather than cyclically over-shooting. Relative-humidity sensors complement temperature measurements by detecting moisture content in the air, allowing the BAS to prevent mould growth, maintain archival storage conditions, and optimize enthalpy-based economizer strategies; modern capacitive polymer elements provide stable, low-drift readings that can be combined with temperature probes in a single duct or wall assembly.
+
+GPT Feedback:
+Right points: Temperature sensors provide real-time data on how warm or cool a space is. They enable precise modulation of heating, cooling, and ventilation.
+Improve on: The student answer contains excessive detail and some grammatical issues. It should be more concise and focused. For example, "Temperature sensor function are Lower the air conditioning..." should be "Temperature sensors lower air conditioning...". The phrase "turn off HAVC" should be "turn off HVAC". Also, "whether based on thermistors, RTDs, or semiconductor ICs" is overly technical for a simple explanation.
+Score: 85%
+
+------------------------------------------------------------
