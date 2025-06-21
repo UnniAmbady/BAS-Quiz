@@ -2468,3 +2468,16 @@ Improve on: None. The student answer is identical to the correct answer.
 Score: 100%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:20:07
+Name:         Subramani Prakash
+Question:      What is the main function of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  They serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to maintain indoor air quality while reducing energy consumption.
+Student Ans:  to monitor indoor air quality by detecting CO2 levels and triggering ventilation adjustments to maintain healthy and comfortable environments
+
+GPT Feedback:
+Right points: They monitor indoor air quality. They detect CO2 levels. They trigger ventilation adjustments.
+Improve on: The answer does not mention "reliable proxy for human occupancy intensity." It lacks details about "demand-controlled ventilation," "reducing energy consumption," and the specific purpose of maintaining indoor air quality.
+Score: 80%
+
+------------------------------------------------------------
