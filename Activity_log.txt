@@ -1563,3 +1563,17 @@ Improve on: The answer does not address the main function of occupancy sensors. 
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:50:14
+Name:         karuppiah rajkumar
+Question:      What are the primary benefits of using an Integrated Building Management System (IBMS) compared to a standalone Building Automation System (BAS)?
+
+
+Modal Answer:  An IBMS provides a unified view of multiple subsystems, enhances operational coordination, reduces costs, and improves response times during both routine operations and emergencies.
+Student Ans:  integrate all the building services and manage the activities
+
+GPT Feedback:
+Right points: integrate all the building services, manage the activities
+Improve on: lacks detail on unified view, operational coordination, cost reduction, and response times. Should mention these aspects for completeness.
+Score: 75%
+
+------------------------------------------------------------
