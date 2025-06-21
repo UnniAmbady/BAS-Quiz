@@ -2620,3 +2620,15 @@ Improve on: The answer lacks detail about real-time data, modulation of heating,
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 21:22:05
+Name:         rahman mohammad mizanur
+Question:     What is the purpose of carbon-dioxide sensors in a Building Automation System?
+Modal Answer: Carbon-dioxide sensors monitor CO2 concentrations to enable demand-controlled ventilation, optimizing indoor air quality and reducing energy consumption by adjusting fan energy levels and reheating losses.
+Student Ans:  To monitor and control indoor air quality and ventilation.
+
+GPT Feedback:
+Right points: The student identifies the purpose of monitoring and controlling indoor air quality and ventilation.
+Improve on: The answer lacks detail about CO2 concentrations, demand-controlled ventilation, and energy optimization. It should mention how sensors adjust fan energy levels and reheating losses.
+Score: 70%
+
+------------------------------------------------------------
