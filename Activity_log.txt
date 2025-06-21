@@ -866,3 +866,16 @@ Improve on: The answer is too brief and lacks detail. It should explain the impo
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 11:12:54
+Name:         Heng Chin Aun
+Question:      What are the primary functions of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data to controllers for precise modulation of heating, cooling, and ventilation, ensuring comfort and energy efficiency.
+Student Ans:  Monitor and report ambient temperature 
+
+GPT Feedback:
+Right points: Monitor and report ambient temperature.
+Improve on: Lacks detail on how it relates to controllers and energy efficiency. Should mention modulation of heating, cooling, and ventilation.
+Score: 70%
+
+------------------------------------------------------------
