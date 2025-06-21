@@ -787,3 +787,15 @@ Improve on: "climate control and comfort" is vague. "efficientcy" should be "eff
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 10:52:48
+Name:         Wang Wei
+Question:     What is the role of carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors monitor CO2 concentration to control ventilation, ensuring optimal indoor air quality and energy efficiency by adjusting fan energy and reheating losses based on occupancy intensity.
+Student Ans:  It integrated into ventilation control scheme and serve as a reliable indicator of human existance in a space. By monitoring CO2 level, BAS can adjust ventilation system on-demand and save energy.
+
+GPT Feedback:
+Right points: Integrated into ventilation control, reliable indicator, monitor CO2 level, adjust ventilation system, save energy.
+Improve on: "It integrated" should be "It is integrated." "serve" should be "serves." "human existance" should be "human existence." "BAS" should be clarified as "Building Automation System" for clarity.
+Score: 85%
+
+------------------------------------------------------------
