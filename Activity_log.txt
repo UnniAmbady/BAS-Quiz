@@ -2749,3 +2749,15 @@ Improve on: The response lacks details on how CO2 sensors control ventilation an
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 22:41:53
+Name:         Subramani Pichapillai Anandharaman
+Question:     What is the primary function of occupancy sensors in a Building Automation System?
+Modal Answer: Occupancy sensors detect motion and presence to activate lighting, reset temperature set-points, or place terminal units into standby mode.
+Student Ans:  To detect presence and absence of people in the room and 
+
+GPT Feedback:
+Right points: Detect presence and absence.
+Improve on: The answer is incomplete. It should mention activating lighting, resetting temperature set-points, or placing terminal units into standby mode.
+Score: 75%
+
+------------------------------------------------------------
