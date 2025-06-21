@@ -1161,3 +1161,17 @@ Improve on: The phrase "form the backbone of every building automation system" i
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 11:49:44
+Name:         ONG AI LING
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the temperature of spaces, enabling precise modulation of heating, cooling, and other comfort-related settings.
+Student Ans:  The primary purpose of temperature sensors in a BAS is to provide real-time data to control heating and cooling system , alarm management precisely, maintaining comfortabel temperatures while optimizing energy efficiency
+
+GPT Feedback:
+Right points: The primary purpose of temperature sensors is to provide real-time data for controlling heating and cooling systems. They help maintain comfortable temperatures and optimize energy efficiency.
+Improve on: "alarm management precisely" is unclear and unnecessary. "maintaining comfortabel" should be "maintaining comfortable." The phrase "system, alarm management precisely," is awkward and should be rephrased for clarity.
+Score: 85%
+
+------------------------------------------------------------
