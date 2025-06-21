@@ -1880,3 +1880,16 @@ Improve on: The phrase "are all comfort and energy algorithms depend on knowing 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:57:41
+Name:         Zhou shengcai
+Question:      What is the purpose of a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS links various building systems like HVAC and lighting to operate as a coordinated system, optimizing energy use, comfort, and operational efficiency.
+Student Ans:  To monitor, control & optimise a building M & E system efficiently for safety & cost savings purposes.
+
+GPT Feedback:
+Right points: "To monitor, control & optimise a building M & E system efficiently for safety & cost savings purposes."
+Improve on: The answer lacks specifics about linking various building systems like HVAC and lighting. It should mention coordination and optimization of energy use, comfort, and operational efficiency.
+Score: 75%
+
+------------------------------------------------------------
