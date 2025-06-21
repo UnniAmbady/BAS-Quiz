@@ -723,3 +723,15 @@ Improve on: The phrase "form the digital nervous system" is less clear than "opt
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 09:06:56
+Name:         Ngian Jin Shun
+Question:     What is the role of carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to optimize energy efficiency and safeguard indoor air quality.
+Student Ans:  Carbon-dioxide sensors are now commonplace in ventilation control schemes because CO2 concentration serves as a reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: "Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity," "enabling demand-controlled ventilation to optimize energy efficiency and safeguard indoor air quality."
+Improve on: "are now commonplace in ventilation control schemes" (could be simplified), "nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths" (unnecessary detail), "trims fan energy and reheating losses" (less clear than "optimize energy efficiency").
+Score: 85%
+
+------------------------------------------------------------
