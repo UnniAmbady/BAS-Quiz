@@ -1808,3 +1808,16 @@ Improve on: The answer includes extra points like energy efficiency and security
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:38:39
+Name:         Kaung Htet
+Question:      What is the purpose of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors help control ventilation by monitoring CO2 levels, which indicate human occupancy, thereby improving indoor air quality and reducing fan energy use.
+Student Ans:  The purpose of carbon dioxide (CO₂) sensors in Building Automation Systems (BAS) is to monitor indoor air quality and control ventilation systems efficiently, primarily through demand-controlled ventilation (DCV) 1. Maintain Healthy Indoor Air Quality 2. Enable Demand-Controlled Ventilation (DCV) 3. Improve Energy Efficiency 4. Support Compliance with Standards 5. Integration with Other BAS Functions.
+
+GPT Feedback:
+Right points: The answer mentions monitoring air quality and controlling ventilation systems. It also highlights energy efficiency.
+Improve on: The answer lacks specific mention of CO2 levels and their direct connection to human occupancy. It should explicitly state that CO2 levels indicate occupancy. The list format is less clear than a cohesive sentence.
+Score: 80%
+
+------------------------------------------------------------
