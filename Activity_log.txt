@@ -1484,3 +1484,16 @@ Improve on: "data and information will not been collected" should be "data and i
 Score: 40%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:44:22
+Name:         Nagarajsathish kumar
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data on space temperature, enabling precise modulation of heating, cooling, and energy algorithms.
+Student Ans:  Monitor and Provided real time temperature data of the building automation system 
+
+GPT Feedback:
+Right points: Monitor, real-time temperature data, building automation system.
+Improve on: "Provided" should be "provides." The phrase should be "provides real-time temperature data" for clarity and consistency.
+Score: 85%
+
+------------------------------------------------------------
