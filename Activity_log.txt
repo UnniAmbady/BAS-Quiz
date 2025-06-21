@@ -2506,3 +2506,19 @@ Improve on: "to zone controllers" is less specific than "the BAS." "based on com
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:54:06
+Name:         Zavier Ng
+Question:      What is the role of occupancy sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting, adjust temperature set-points, and manage energy usage based on real-time space utilization.
+Student Ans:  Whether passive infrared, ultrasonic, or microwave, detect motion and presence to give the
+BAS an instant indication of when to activate lighting, reset temperature set-points, or place terminal units into
+standby; when networked across open protocols, these devices create a dynamic picture of space utilisation that
+feeds analytics engines for space planning and energy benchmarking
+
+GPT Feedback:
+Right points: Detect motion and presence to activate lighting, adjust temperature set-points, and manage energy usage based on real-time space utilization.
+Improve on: The student answer is overly complex and includes unnecessary details. Simplify to match the original answer's clarity.
+Score: 85%
+
+------------------------------------------------------------
