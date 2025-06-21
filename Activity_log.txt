@@ -1757,3 +1757,16 @@ Improve on: The answer lacks detail on how carbon-dioxide sensors specifically r
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:14:05
+Name:         Wong Jau Yuon
+Question:      What is the primary function of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  They serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to maintain indoor air quality and reduce energy consumption.
+Student Ans:  monitor indoor air quality and control ventilation
+
+GPT Feedback:
+Right points: They monitor indoor air quality.
+Improve on: The answer lacks details about serving as a proxy for occupancy intensity and reducing energy consumption. It should mention enabling demand-controlled ventilation.
+Score: 80%
+
+------------------------------------------------------------
