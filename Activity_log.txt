@@ -2696,3 +2696,15 @@ Improve on: "real time" should be "real-time". "energy efficient" should be "ene
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 21:31:25
+Name:         KARUPPAIAH MURUGARASU (274M)
+Question:     What is the primary function of carbon-dioxide sensors in a Building Automation System?
+Modal Answer: Carbon-dioxide sensors help control ventilation by monitoring CO2 levels, which serve as a proxy for human occupancy intensity.
+Student Ans:  Corbon- dioxide sensors help controls ventilation
+
+GPT Feedback:
+Right points: Carbon-dioxide sensors help control ventilation.
+Improve on: "Corbon" should be "Carbon." "controls" should be "control." The sentence is incomplete; it should mention monitoring CO2 levels.
+Score: 85%
+
+------------------------------------------------------------
