@@ -799,3 +799,17 @@ Improve on: "It integrated" should be "It is integrated." "serve" should be "ser
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 10:57:46
+Name:         Wang Wei
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors are essential in a BAS as they provide real-time data on the temperature of spaces, enabling precise control of heating and cooling processes to maintain comfort and efficiency.
+Student Ans:  Temperature sensors collect real-time temperature data and so Building Automation System can adjust HVAC system to maintain rooms' temperature and save energy. A suitable temperature can keep human in the building is comfortable and prevent systems in the building working outside of designed working temperature.
+
+GPT Feedback:
+Right points: Temperature sensors collect real-time temperature data. Building Automation System can adjust HVAC system to maintain rooms' temperature and save energy. A suitable temperature can keep humans comfortable.
+Improve on: "so Building Automation System" should be "so the Building Automation System." "keep human in the building is comfortable" should be "keep humans in the building comfortable." "prevent systems in the building working outside of designed working temperature" can be simplified to "prevent systems from operating outside their designed temperature range."
+Score: 85%
+
+------------------------------------------------------------
