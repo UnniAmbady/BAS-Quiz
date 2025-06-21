@@ -543,3 +543,49 @@ Improve on: - The answer lacks the emphasis on real-time data and modulation of 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 08:00:57
+Name:         Ong Guan Heng
+Question:      What are the key benefits of integrating a Building Automation System (BAS) with an Integrated Building Management System (IBMS)?
+
+
+Modal Answer:  Integrating a BAS with an IBMS provides a unified operational picture, reduces capital and operating costs, improves response times, and enhances energy efficiency and system coordination.
+Student Ans:  Integrating a Building Automation System (BAS) with an Integrated Building Management System (IBMS) offers several key benefits:
+
+Enhanced Efficiency
+1. Centralized control: IBMS integrates BAS with other building systems, enabling centralized monitoring and control.
+2. Optimized operations: IBMS optimizes energy consumption, reduces waste, and improves overall building performance.
+
+Improved Decision-Making
+1. Data-driven insights: IBMS provides real-time data and analytics, enabling informed decision-making.
+2. Predictive maintenance: IBMS enables predictive maintenance, reducing downtime and extending equipment lifespan.
+
+Enhanced Occupant Experience
+1. Comfort and safety: IBMS ensures optimal indoor air quality, temperature, and lighting conditions.
+2. Personalized settings: IBMS can learn occupants' preferences and adjust settings accordingly.
+
+Increased Security
+1. Integrated security systems: IBMS integrates security systems, such as access control and CCTV, with BAS.
+2. Real-time monitoring: IBMS enables real-time monitoring of security systems.
+
+Reduced Costs
+1. Energy savings: IBMS optimizes energy consumption, reducing energy costs.
+2. Reduced maintenance: IBMS enables predictive maintenance, reducing maintenance costs.
+
+
+GPT Feedback:
+Right points: **  
+- Integrating a BAS with an IBMS provides a unified operational picture.  
+- Reduces capital and operating costs.  
+- Improves response times.  
+- Enhances energy efficiency and system coordination.  
+
+**
+Improve on: **  
+- The student answer provides a broader view but misses the mention of a "unified operational picture."  
+- The benefits listed are correct but not all align directly with the original answer's concise points.  
+- "Enhanced Efficiency" and "Reduced Costs" both mention energy savings but should also emphasize system coordination.  
+
+**
+Score: ** 85%
+
+------------------------------------------------------------
