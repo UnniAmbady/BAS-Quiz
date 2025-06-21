@@ -1331,3 +1331,18 @@ Improve on: It lacks details about real-time data, modulation of heating and coo
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:34:56
+Name:         Tan Juay Hwa
+Question:      What technology does a Building Automation System use to control the modulation of chilled-water flows?
+
+
+Modal Answer:  Valve actuators are used to drive the stems of globe, ball, or butterfly valves to modulate chilled-water flows in response to load.
+Student Ans:  A Building Automation System (BAS) uses a combination of variable speed drives (VSDs), modulating control valves, and advanced control algorithms to modulate chilled-water flow based on real-time cooling demands
+
+
+GPT Feedback:
+Right points: The mention of modulating chilled-water flow is correct.
+Improve on: The focus is on Building Automation System (BAS), which is not the main topic. The specific mention of valve actuators and types of valves (globe, ball, butterfly) is missing.
+Score: 75%
+
+------------------------------------------------------------
