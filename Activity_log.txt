@@ -2323,3 +2323,17 @@ Improve on: "on the warmth or coolness of a space" could be simplified to "of a 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 19:49:23
+Name:         MAHESH JAIKISHOR
+Question:      What is the primary function of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the warmth or coolness of spaces, enabling precise control of HVAC systems and energy algorithms.
+Student Ans:  Measure and monitor indoor and outdoor temperatures to help regulate and control HVAC systems for optimal comfort, energy efficiency, and system performance.
+
+GPT Feedback:
+Right points: Measure and monitor indoor and outdoor temperatures. Control HVAC systems for optimal comfort and energy efficiency.
+Improve on: The answer lacks the mention of "real-time data" and "energy algorithms." It could be more concise.
+Score: 85%
+
+------------------------------------------------------------
