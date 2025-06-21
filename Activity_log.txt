@@ -1947,3 +1947,17 @@ Improve on: "maintain" should be "maintaining" for correct grammar. The phrase "
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 16:32:32
+Name:         Waing Sandar
+Question:      What is the primary function of carbon-dioxide sensors in a Building Automation System?
+
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentrations to enable demand-controlled ventilation, improving indoor air quality and reducing energy consumption.
+Student Ans:  To detect the carbon-dioxide.
+
+GPT Feedback:
+Right points: Detecting carbon-dioxide is a part of monitoring CO2 concentrations.
+Improve on: The answer lacks detail on how it relates to ventilation and energy consumption. It should explain the purpose and benefits of CO2 sensors.
+Score: 60%
+
+------------------------------------------------------------
