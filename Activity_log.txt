@@ -657,3 +657,15 @@ Improve on: The student does not explicitly mention CO2 concentration or how it 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 09:01:15
+Name:         Oh Wee Pin Edwin
+Question:     What purpose do carbon-dioxide sensors serve in Building Automation Systems?
+Modal Answer: They serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy use.
+Student Ans:  Carbon-dioxide sensors are now commonplace in ventilation control schemes because CO2 concentration serves as a reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: CO2 concentration serves as a reliable proxy for human occupancy intensity. Enables demand-controlled ventilation to optimize indoor air quality and reduce energy use.
+Improve on: The student answer is overly detailed and slightly deviates from the main point. It could be simplified to focus on the key aspects of CO2 sensors in demand-controlled ventilation without extra technical jargon.
+Score: 85%
+
+------------------------------------------------------------
