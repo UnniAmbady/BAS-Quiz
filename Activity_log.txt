@@ -827,3 +827,15 @@ Improve on: The answer lacks clarity on the purpose of temperature sensors and d
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 11:04:42
+Name:         Tan Lee Kiang Ivy
+Question:     What is the primary function of carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors provide reliable information on human occupancy intensity, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy usage.
+Student Ans:  A reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: A reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths; enable demand-controlled ventilation; trims fan energy; safeguards indoor air quality.
+Improve on: The answer is somewhat correct but lacks clarity and completeness. It should directly mention "carbon-dioxide sensors" and how they specifically provide information on occupancy intensity.
+Score: 85%
+
+------------------------------------------------------------
