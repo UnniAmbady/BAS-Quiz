@@ -2054,3 +2054,16 @@ Improve on: The student answer is overly complex and includes unnecessary detail
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 16:59:21
+Name:         HOU JIANGHAO
+Question:      What key function do temperature sensors serve in a Building Automation System (BAS)?  
+
+Modal Answer:  They provide real-time data on temperature to help modulate heating, cooling, and ventilation precisely.
+Student Ans:  Temperature sensors provide real-time data that allows the BAS to precisely control heating and cooling, ensuring comfort and energy efficiency.
+
+GPT Feedback:
+Right points: Temperature sensors provide real-time data, control heating and cooling, ensuring comfort and energy efficiency.
+Improve on: The phrase "allows the BAS to precisely control" could be more concise. Suggestion: "help modulate heating and cooling."
+Score: 85%
+
+------------------------------------------------------------
