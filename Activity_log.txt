@@ -2133,3 +2133,15 @@ Improve on: The answer does not address the question or provide any relevant inf
 Score: 20%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 17:14:12
+Name:         Tay Yew San
+Question:     What is the primary function of carbon-dioxide sensors in a Building Automation System?
+Modal Answer: Carbon-dioxide sensors monitor CO2 concentration to enable demand-controlled ventilation, optimizing indoor air quality and reducing energy consumption.
+Student Ans:  Cardon-dioxide sensors are now commonplace in ventilation control schemes because carbon dioxide concentration serves as a reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: Carbon-dioxide sensors monitor CO2 concentration. They enable demand-controlled ventilation. They optimize indoor air quality and reduce energy consumption.
+Improve on: "Cardon-dioxide" should be "Carbon-dioxide." "Nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths" is too complex for a brief answer. Simplify this part. "Trims fan energy and reheating losses" could be clearer if stated as "reduces energy use."
+Score: 85%
+
+------------------------------------------------------------
