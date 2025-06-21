@@ -1451,3 +1451,22 @@ Improve on: The answer lacks mention of real-time data and modulation of set-poi
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 13:43:04
+Name:         Tan Juay Hwa
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data to zone controllers to ensure accurate modulation of heating and cooling for comfort and energy efficiency.
+Student Ans:  The primary purpose of temperature sensors in a Building Automation System (BAS) is to provide real-time data for precise climate control. These sensors continuously monitor ambient temperatures throughout a building, allowing the BAS to automatically adjust heating, ventilation, and air conditioning (HVAC) systems to maintain comfort and energy efficiency.
+Here’s what they enable:
+- Comfort Optimization: By detecting temperature fluctuations in different zones, the BAS can fine-tune HVAC output to ensure consistent comfort across all areas.
+- Energy Efficiency: Instead of running HVAC systems at fixed settings, temperature sensors allow dynamic adjustments—reducing energy use when conditions are already ideal.
+- Equipment Protection: In environments like data centers or manufacturing facilities, temperature sensors help prevent overheating of sensitive equipment.
+- Predictive Maintenance: Abnormal temperature patterns can signal equipment issues, allowing early intervention before failures occur
+
+
+GPT Feedback:
+Right points: The primary purpose of temperature sensors in a Building Automation System (BAS) is to provide real-time data for precise climate control. These sensors continuously monitor ambient temperatures. They allow the BAS to automatically adjust HVAC systems to maintain comfort and energy efficiency.
+Improve on: The answer is mostly correct but could be more concise. The phrase "allowing the BAS to automatically adjust heating, ventilation, and air conditioning (HVAC) systems" is repetitive. The section about "Predictive Maintenance" is good but could be clearer.
+Score: 85%
+
+------------------------------------------------------------
