@@ -2593,3 +2593,16 @@ Improve on: The answer lacks detail on CO2 concentration and demand-controlled v
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 21:20:15
+Name:         Muthusamy Muthukumar
+Question:      What is the main purpose of Building Automation Systems (BAS)?  
+
+Modal Answer:  BAS integrates various building systems like HVAC and lighting to optimize performance, enhance energy efficiency, and improve operational management.
+Student Ans:  The main purpose of a Building Management System (BMS) is to monitor, control, and optimize the performance of a building's mechanical and electrical systems. 
+
+GPT Feedback:
+Right points: The student identifies the purpose of a Building Management System (BMS) accurately.
+Improve on: The answer lacks mention of specific systems like HVAC and lighting. It should also include energy efficiency and operational management.
+Score: 80%
+
+------------------------------------------------------------
