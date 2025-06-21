@@ -1835,3 +1835,19 @@ Improve on: The answer is vague. Should specify they convert control signals int
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 15:48:46
+Name:         Nyi Nyi Aung
+Question:      What is the primary function of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy usage.
+Student Ans:  The primary function of carbon-dioxide sensors in a Building Automation System are commonplace in ventilation control schemes because CO2 concentration serves
+as a reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare
+reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating
+losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: CO2 concentration serves as a reliable proxy for human occupancy intensity. Demand-controlled ventilation optimizes indoor air quality and reduces energy usage.
+Improve on: "are commonplace" should be "is commonplace." "that trims fan energy and reheating losses" could be simplified to "to reduce energy usage." The phrase "safeguarding indoor air quality" is redundant since it has already been mentioned.
+Score: 85%
+
+------------------------------------------------------------
