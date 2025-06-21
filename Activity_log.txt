@@ -2554,3 +2554,16 @@ Improve on: The focus on "zone controllers" and specific components (set-points,
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 20:56:18
+Name:         Zavier Ng
+Question:     What role do carbon-dioxide sensors play in a Building Automation System?
+Modal Answer: Carbon-dioxide sensors help manage ventilation by detecting CO2 concentration, which indicates occupancy levels, allowing for demand-controlled ventilation to optimize indoor air quality and save energy.
+Student Ans:  CO2 concentration serves
+as a reliable proxy for human occupancy intensity
+
+GPT Feedback:
+Right points: CO2 concentration is a proxy for occupancy.
+Improve on: The answer lacks detail about managing ventilation and energy savings. It should mention demand-controlled ventilation and optimizing indoor air quality.
+Score: 70%
+
+------------------------------------------------------------
