@@ -2736,3 +2736,16 @@ Improve on: The student answer is incomplete. It should mention temperature sens
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 22:41:48
+Name:         hai boon
+Question:      What is the main function of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors help control ventilation by measuring CO2 concentration, which indicates human occupancy intensity, thereby optimizing indoor air quality and reducing energy usage.
+Student Ans:  serves as a reliable proxy for human occupancy intensity
+
+GPT Feedback:
+Right points: The phrase "serves as a reliable proxy for human occupancy intensity" is correct.
+Improve on: The response lacks details on how CO2 sensors control ventilation and optimize air quality. It should mention measuring CO2 concentration and energy usage.
+Score: 75%
+
+------------------------------------------------------------
