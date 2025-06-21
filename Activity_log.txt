@@ -710,3 +710,16 @@ Improve on: The answer lacks clarity on the primary function of a BAS and does n
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-21 09:04:42
+Name:         Ngian Jin Shun
+Question:      What is the primary function of a Building Automation System (BAS)?  
+
+Modal Answer:  The primary function of a BAS is to link sensors, controllers, and communication networks to optimize the operation of HVAC, lighting, and other building systems, ensuring comfort and energy efficiency.
+Student Ans:  form the digital nervous system of contemporary facilities by linking sensors, controllers and communication networks so that HVAC, lighting, power distribution, fire protection, vertical transport and security assets behave as coordinated parts of a living organism. The system gathers real-time data, executes control algorithms at the edge or centrally and records performance trends for later verification and tuning.
+
+GPT Feedback:
+Right points: The answer mentions linking sensors, controllers, and communication networks. It highlights the coordination of building systems and mentions real-time data and control algorithms.
+Improve on: The phrase "form the digital nervous system" is less clear than "optimize the operation." The mention of "vertical transport and security assets" is not in the correct answer. The focus should be more on comfort and energy efficiency rather than just coordination.
+Score: 85%
+
+------------------------------------------------------------
