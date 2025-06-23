@@ -2997,3 +2997,16 @@ Improve on: The answer includes information about occupancy and humidity sensors
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-24 07:18:15
+Name:         Karuppaiah Hariharan
+Question:      What is the main purpose of a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS links sensors, controllers, and communication networks to optimize the operation of HVAC, lighting, and security systems, improving energy efficiency and operational insight.
+Student Ans:  control the building  with help of programming device in single room
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer is vague and lacks detail. It should mention that a BAS links various systems (HVAC, lighting, security) and optimizes operations for energy efficiency.
+Score: 40%
+
+------------------------------------------------------------
