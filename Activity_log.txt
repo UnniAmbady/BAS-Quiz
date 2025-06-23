@@ -3010,3 +3010,17 @@ Improve on: The answer is vague and lacks detail. It should mention that a BAS l
 Score: 40%
 
 ------------------------------------------------------------
+Timestamp:    2025-06-24 07:20:05
+Name:         Karuppaiah Hariharan
+Question:      What is the role of carbon-dioxide sensors in a Building Automation System?
+
+
+Modal Answer:  Carbon-dioxide sensors measure CO2 concentration to control ventilation, optimizing indoor air quality and reducing energy usage by adjusting fan operation based on occupancy levels.
+Student Ans:  monitoring indoor air quality
+
+GPT Feedback:
+Right points: monitoring indoor air quality
+Improve on: The answer lacks detail. It should mention CO2 concentration, ventilation control, energy usage, and fan operation based on occupancy.
+Score: 70%
+
+------------------------------------------------------------
