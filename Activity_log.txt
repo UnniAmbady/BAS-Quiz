@@ -3064,3 +3064,15 @@ Improve on: The answer is incomplete and lacks detail. It should explain how tem
 Score: 40%
 
 ------------------------------------------------------------
+Timestamp:    2025-07-16 10:57:33
+Name:         Tambi
+Question:     Q yet to come
+Modal Answer: Ans not ready
+Student Ans:  what is BAS?
+
+GPT Feedback:
+Right points: None.
+Improve on: The answer does not address the question. It should provide information about BAS.
+Score: 50%
+
+------------------------------------------------------------
