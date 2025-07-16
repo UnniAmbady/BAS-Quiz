@@ -3076,3 +3076,15 @@ Improve on: The answer does not address the question. It should provide informat
 Score: 50%
 
 ------------------------------------------------------------
+Timestamp:    2025-07-16 10:58:26
+Name:         Tambi
+Question:     Q yet to come
+Modal Answer: Ans not ready
+Student Ans:  BAS is building automation system
+
+GPT Feedback:
+Right points: BAS is correctly defined as building automation system.
+Improve on: None needed.
+Score: 90%
+
+------------------------------------------------------------
