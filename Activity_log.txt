@@ -3124,3 +3124,16 @@ Improve on: "in BAS" is unnecessary. "process temperature" can be simplified.
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2025-07-16 21:41:21
+Name:         UNNI
+Question:      What is the role of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors monitor the warmth or coolness of spaces and equipment, providing real-time data to zone controllers to modulate heating and cooling precisely.
+Student Ans:  Temperature sensors are used to measure the process temperature and adjust it to ensure desired comfort level.
+
+GPT Feedback:
+Right points: Temperature sensors are used to measure temperature.
+Improve on: "process temperature" is vague. It should specify "ambient temperature" or "space temperature." Also, "adjust it" lacks clarity; it should mention how they interact with zone controllers.
+Score: 80%
+
+------------------------------------------------------------
