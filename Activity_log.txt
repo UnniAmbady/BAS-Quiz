@@ -3150,3 +3150,15 @@ Improve on: The answer lacks details about detecting motion and presence. It sho
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2025-09-08 00:42:45
+Name:         test22
+Question:     What role do carbon-dioxide sensors play in Building Automation Systems (BAS)?
+Modal Answer: Carbon-dioxide sensors help manage ventilation by monitoring CO2 levels, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy consumption.
+Student Ans:  CO2 sensor senses the temperature and pressure nad deceide how many persons inside the roon
+
+GPT Feedback:
+Right points: CO2 sensor, senses, how many persons inside.
+Improve on: "senses the temperature and pressure" (should monitor CO2 levels), "nad" (should be "and"), "deceide" (should be "decide"), "roon" (should be "room").
+Score: 60%
+
+------------------------------------------------------------
