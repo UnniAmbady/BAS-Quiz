@@ -3312,3 +3312,17 @@ Improve on: "Energy Management Systems (EMS)" is not the same as "Intelligent Bu
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 14:21:20
+Name:         Sekar Raman
+Question:      What technology allows Building Automation Systems to continuously adjust control set-points based on environmental conditions and occupancy patterns?
+
+
+Modal Answer:  Intelligent Building Management Systems (IBMS) utilize data-driven autonomy and continuous learning for this purpose.
+Student Ans:  The core technology that allows Building Automation Systems (BAS) to continuously adjust control set-points is a hybrid of IoT (Internet of Things) sensor networks, AI-driven (Artificial Intelligence) control algorithms, and machine learning analytics
+
+GPT Feedback:
+Right points: The mention of IoT, AI, and machine learning is relevant to building automation.
+Improve on: The term "Building Automation Systems (BAS)" is not synonymous with "Intelligent Building Management Systems (IBMS)." IBMS specifically focuses on data-driven autonomy and continuous learning.
+Score: 80%
+
+------------------------------------------------------------
