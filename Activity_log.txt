@@ -3298,3 +3298,17 @@ Improve on: The student answer does not address the question about Intelligent B
 Score: 40%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 14:19:18
+Name:         Sekar Raman
+Question:      What technology allows Building Automation Systems to continuously adjust control set-points based on environmental conditions and occupancy patterns?
+
+
+Modal Answer:  Intelligent Building Management Systems (IBMS) utilize data-driven autonomy and continuous learning for this purpose.
+Student Ans:  AI-driven Energy Management Systems (EMS)
+
+GPT Feedback:
+Right points: The mention of "AI-driven" is relevant.
+Improve on: "Energy Management Systems (EMS)" is not the same as "Intelligent Building Management Systems (IBMS)." Correct term: IBMS instead of EMS.
+Score: 70%
+
+------------------------------------------------------------
