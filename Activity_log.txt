@@ -3284,3 +3284,17 @@ Improve on: The student answer is too simplistic and does not address the concep
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 14:18:46
+Name:         Sekar Raman
+Question:      What technology allows Building Automation Systems to continuously adjust control set-points based on environmental conditions and occupancy patterns?
+
+
+Modal Answer:  Intelligent Building Management Systems (IBMS) utilize data-driven autonomy and continuous learning for this purpose.
+Student Ans:  Demand Control Ventilation (DCV)
+
+GPT Feedback:
+Right points: None.
+Improve on: The student answer does not address the question about Intelligent Building Management Systems (IBMS). It mistakenly mentions Demand Control Ventilation (DCV) instead of IBMS.
+Score: 40%
+
+------------------------------------------------------------
