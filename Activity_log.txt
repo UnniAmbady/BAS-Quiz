@@ -3188,3 +3188,15 @@ Improve on: The answer is incomplete. It should explain the importance of temper
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 13:12:12
+Name:         unni
+Question:     What is the primary purpose of a Building Automation System (BAS)?
+Modal Answer: The primary purpose of a BAS is to link sensors, controllers, and communication networks to optimize the operation of HVAC, lighting, and other building systems, enhancing efficiency and comfort.
+Student Ans:  To control Building
+
+GPT Feedback:
+Right points: The answer mentions controlling building systems.
+Improve on: The response is overly simplistic. It lacks detail about how it connects sensors, controllers, and networks. It should mention optimizing HVAC, lighting, and comfort.
+Score: 70%
+
+------------------------------------------------------------
