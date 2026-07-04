@@ -3377,3 +3377,29 @@ Improve on: "To to" should be "to". The phrase "so the system can automatically 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 18:47:42
+Name:         Lee Kua Chin (Jin)
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors are essential for providing real-time data on how warm or cool spaces are, enabling precise control of heating, cooling, and energy algorithms.
+Student Ans:  Temperature sensors form the backbone of every Building Automation System because nearly all comfort and
+energy algorithms depend on knowing how warm or cool a space, duct, or piece of equipment is; whether based
+on thermistors, RTDs, or semiconductor ICs, they feed real-time data to zone controllers so that set-points,
+heating valve strokes, and chiller loads can be modulated precisely rather than cyclically over-shooting.
+
+Relative-humidity sensors complement temperature measurements by detecting moisture content in the air,
+allowing the BAS to prevent mould growth, maintain archival storage conditions, and optimise enthalpy-based
+economiser strategies; modern capacitive polymer elements provide stable, low-drift readings that can be
+combined with temperature probes in a single duct or wall assembly.
+Carbon-dioxide sensors are now commonplace in ventilation control schemes because CO2
+
+concentration serves
+as a reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare
+reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating
+losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: Temperature sensors are essential for providing real-time data. They enable precise control of heating, cooling, and energy algorithms.
+Improve on: The student answer is overly detailed and deviates from the main point about temperature sensors. It includes unnecessary information about relative-humidity and carbon-dioxide sensors. The focus should remain on temperature sensors and their direct role in automation systems.
+Score: 85%
+
+------------------------------------------------------------
