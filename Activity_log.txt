@@ -3351,3 +3351,16 @@ Improve on: Answer lacks detail about modulation and real-time data. Should ment
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 15:33:01
+Name:         SENTHIL NATHAN C
+Question:      What is the primary purpose of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  They detect CO2 concentration to enable demand-controlled ventilation, improving indoor air quality while reducing energy consumption.
+Student Ans:  CO2 Sensor record the amount of the CO2 present in a Air conditioned environment. It also helps the HVAC subsystem to adjust the Fresh Air Flow into the particular Air Conditioned environment
+
+GPT Feedback:
+Right points: CO2 Sensor record the amount of CO2. It helps the HVAC subsystem adjust the Fresh Air Flow.
+Improve on: "in a Air conditioned environment" should be "in an air-conditioned environment." "adjust the Fresh Air Flow into the particular Air Conditioned environment" could be more concise, like "adjust the fresh air flow."
+Score: 85%
+
+------------------------------------------------------------
