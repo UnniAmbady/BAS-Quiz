@@ -3403,3 +3403,29 @@ Improve on: The student answer is overly detailed and deviates from the main poi
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 18:53:54
+Name:         Lee Kua Chin (Jin)
+Question:      What are the key benefits of using an Integrated Building Management System (IBMS) in modern facilities?
+
+
+Modal Answer:  An IBMS reduces capital and operational costs, improves response times during emergencies, and provides a unified view of multiple subsystems for better decision-making.
+Student Ans:  Integrated Building Management System (IBMS) takes a standard BAS and elevates it by bringing entirely separate building operations into a single, cohesive ecosystem. Instead of having isolated software for HVAC, lighting, security, and fire safety, an IBMS acts as a "single pane of glass" for the entire facility
+As buildings become larger and their services more numerous, the conversation shifts from automating single
+disciplines to orchestrating all of them.
+overlays a unifying
+software platform on top of disparate subsystems so that information from air-handling units, chillers, fire alarm
+panels, card-access readers, CCTV streams and parking sensors pours into one database and one visual
+interface.
+
+1. Unified Management & Visibility
+2. True Cross-System Automation
+3. Maximum Energy Efficiency
+
+GPT Feedback:
+Right points: The response correctly identifies that an IBMS integrates various building operations into a cohesive system and provides a unified view.
+Improve on: - The answer does not mention cost reduction or improved response times during emergencies, which are key aspects of the correct answer.
+- Phrasing like "overlays a unifying software platform" could be simplified for clarity. 
+- The list at the end lacks context and connection to the main points.
+Score: 80%
+
+------------------------------------------------------------
