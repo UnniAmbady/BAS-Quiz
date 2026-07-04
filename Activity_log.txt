@@ -3270,3 +3270,17 @@ Improve on: The answer does not mention Intelligent Building Management Systems 
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-04 14:17:58
+Name:         Sekar Raman
+Question:      What technology allows Building Automation Systems to continuously adjust control set-points based on environmental conditions and occupancy patterns?
+
+
+Modal Answer:  Intelligent Building Management Systems (IBMS) utilize data-driven autonomy and continuous learning for this purpose.
+Student Ans:  Programmed schedules based on fixed calendar hours.
+
+GPT Feedback:
+Right points: None.
+Improve on: The student answer is too simplistic and does not address the concept of data-driven autonomy and continuous learning. It should mention the role of data and learning in IBMS.
+Score: 60%
+
+------------------------------------------------------------
