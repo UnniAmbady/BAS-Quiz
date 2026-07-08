@@ -3468,3 +3468,16 @@ Improve on: "Montior" should be "Monitor." The answer lacks detail and context. 
 Score: 60%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-08 20:03:42
+Name:         Vincent
+Question:      What is the purpose of carbon-dioxide sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Carbon-dioxide sensors regulate ventilation by monitoring CO2 levels, which indicate human occupancy, thus optimizing indoor air quality and reducing energy use.
+Student Ans:  to control the fresh air intake to lower the carbon dioxide in the room
+
+GPT Feedback:
+Right points: Control fresh air intake, lower carbon dioxide.
+Improve on: Lacks detail on monitoring CO2 levels, optimizing air quality, and energy reduction.
+Score: 75%
+
+------------------------------------------------------------
