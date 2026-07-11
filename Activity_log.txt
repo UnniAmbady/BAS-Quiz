@@ -3612,3 +3612,17 @@ Improve on: The phrase "as a proxy for human occupancy" is less clear than simpl
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-11 22:21:21
+Name:         deborah lai
+Question:      What does an Intelligent Building Management System (IBMS) aim to achieve compared to a traditional Building Automation System (BAS)?  
+
+
+Modal Answer:  An IBMS aims to optimize and predict building operations using data-driven autonomy and continuous learning, whereas a BAS primarily focuses on automated control and monitoring of building systems.
+Student Ans:  traditional BAS rely on isolated systems, operate on fixed schedules and require heavy human intervention. Intelligent BAS integrate IoT sensors to connect all systems and react dynamically to occupancy, weather and energy demands.
+
+GPT Feedback:
+Right points: Traditional BAS rely on isolated systems. Intelligent BAS integrate IoT sensors.
+Improve on: The answer does not mention optimization and prediction of building operations. It lacks the comparison with IBMS. Should mention continuous learning.
+Score: 75%
+
+------------------------------------------------------------
