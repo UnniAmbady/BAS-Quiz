@@ -3574,3 +3574,16 @@ Improve on: "is mainly use" should be "are mainly used". "allow monitoring" coul
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-11 20:54:34
+Name:         Sean Kam Zhan Peng
+Question:      What purpose do carbon-dioxide sensors serve in Building Automation Systems (BAS)?  
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentrations to control ventilation based on occupancy levels, ensuring energy efficiency and maintaining indoor air quality.
+Student Ans:  The purpose for the carbon dioxide sensor is use to monitor the air quality inside a building and to maintain the energy efficiency in managing the air reducing air intake if there are fewer people.
+
+GPT Feedback:
+Right points: The purpose for the carbon dioxide sensor is to monitor air quality and maintain energy efficiency.
+Improve on: "is use to" should be "is used to". "managing the air reducing air intake" is unclear; it can be simplified to "reducing air intake".
+Score: 85%
+
+------------------------------------------------------------
