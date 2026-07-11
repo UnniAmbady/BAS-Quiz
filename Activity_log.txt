@@ -3509,3 +3509,16 @@ Improve on: The answer lacks specificity about CO2 concentration monitoring and 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-11 19:39:37
+Name:         KHOO PENG WAH
+Question:      What is the primary benefit of integrating a Building Management System (BMS) with disparate subsystems like fire alarms and security?  
+
+Modal Answer:  It provides a unified operational view that enhances efficiency, improves response times, and enables coordinated control across the building's systems.
+Student Ans:  centralised situational awareness and automated cross-system emergency responses.
+
+GPT Feedback:
+Right points: centralised situational awareness, automated cross-system emergency responses.
+Improve on: The answer lacks details about efficiency, response times, and coordinated control. Should mention these aspects to be more complete.
+Score: 80%
+
+------------------------------------------------------------
