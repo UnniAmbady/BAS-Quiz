@@ -3599,3 +3599,16 @@ Improve on: The answer lacks mention of real-time data and precise modulation. I
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-11 22:19:03
+Name:         deborah lai
+Question:      What is the role of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 levels to enable demand-controlled ventilation, optimizing air quality while reducing energy consumption.
+Student Ans:  they measure CO2 continuously in the building as a proxy for human occupancy, using the data to drive demand-controlled ventilation and optimize indoor air quality and energy efficiency.
+
+GPT Feedback:
+Right points: They measure CO2 continuously. They use data for demand-controlled ventilation. Optimize indoor air quality and energy efficiency.
+Improve on: The phrase "as a proxy for human occupancy" is less clear than simply stating the purpose of monitoring CO2. It could be more concise.
+Score: 85%
+
+------------------------------------------------------------
