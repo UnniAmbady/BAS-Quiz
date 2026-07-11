@@ -3536,3 +3536,15 @@ Improve on: "detecting how relative warm or cool the area is." should be "detect
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-11 19:54:45
+Name:         Tan Ye Yang
+Question:     What is the role of occupancy sensors in a Building Automation System (BAS)?
+Modal Answer: Occupancy sensors detect motion and presence to activate lighting, reset temperature set-points, or place terminal units into standby, thereby providing real-time data on space utilization.
+Student Ans:  It detects motion and presence, giving the BAS indicators to activate lighting, reset temperature or place units into standby. It can provide a dynamic picture of space utilization and provide data for space planning and energy saving etc.
+
+GPT Feedback:
+Right points: It detects motion and presence, activate lighting, reset temperature, place units into standby, provide data for space planning, energy saving.
+Improve on: "giving the BAS indicators" is vague; should specify "to activate BAS functions". "etc." is unnecessary; avoid vague phrases.
+Score: 85%
+
+------------------------------------------------------------
