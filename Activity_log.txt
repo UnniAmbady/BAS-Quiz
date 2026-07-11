@@ -3522,3 +3522,17 @@ Improve on: The answer lacks details about efficiency, response times, and coord
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-11 19:52:58
+Name:         Tan Ye Yang
+Question:     What is the role of temperature sensors in a Building Automation System (BAS)?
+
+Temperature sensors provide real-time data on the thermal conditions within a space, allowing the BAS to accurately modulate heating, cooling, and air flow to maintain comfort and energy efficiency.
+Modal Answer: 
+Student Ans:  It is the backbone of comfort and energy algorithms. They regulate temperature relative to the set-points by detecting how relative warm or cool the area is. 
+
+GPT Feedback:
+Right points: It is the backbone of comfort and energy algorithms. They regulate temperature relative to the set-points.
+Improve on: "detecting how relative warm or cool the area is." should be "detecting how warm or cool the area is."
+Score: 85%
+
+------------------------------------------------------------
