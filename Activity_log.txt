@@ -3626,3 +3626,17 @@ Improve on: The answer does not mention optimization and prediction of building 
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-12 12:46:29
+Name:         TEOH BUN TECK
+Question:      What is the primary purpose of a Building Automation System (BAS)?  
+
+Modal Answer:  The primary purpose of a BAS is to integrate and automate various building systems, such as HVAC, lighting, and security, to enhance operational efficiency and maintain environmental comfort.
+Student Ans:  Systems Typically Controlled by a BAS:
+HVAC Systems ,Lighting Systems, Power Systems, Plumbing & Water, Security & Fire Systems
+
+GPT Feedback:
+Right points: The student mentions HVAC, lighting, security, which are correct components of a BAS.
+Improve on: The answer lacks clarity on the primary purpose of a BAS. It should explain integration and automation for efficiency and comfort.
+Score: 75%
+
+------------------------------------------------------------
