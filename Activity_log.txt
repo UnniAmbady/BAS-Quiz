@@ -3667,3 +3667,16 @@ Improve on: "acmv" should be "ACMV" (uppercase) and "contorl" should be "control
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-14 13:58:25
+Name:         MURUGANANDAM PUGAL ANBARASU
+Question:      What primary function do occupancy sensors serve in a Building Automation System (BAS)?  
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting, adjust temperature set-points, and place terminal units into standby mode.
+Student Ans:  To detect occupancy and automatic control lighting and ACMV for energy efficiency
+
+GPT Feedback:
+Right points: Occupancy sensors detect motion and presence, control lighting, and adjust temperature.
+Improve on: The phrase "automatic control lighting and ACMV" is unclear. It should specify "automatically control lighting and air conditioning/ventilation systems (ACMV)."
+Score: 80%
+
+------------------------------------------------------------
