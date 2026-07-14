@@ -3680,3 +3680,17 @@ Improve on: The phrase "automatic control lighting and ACMV" is unclear. It shou
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-14 14:00:26
+Name:         MURUGANANDAM PUGAL ANBARASU
+Question:      What is the primary role of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data to ensure comfort and energy algorithms can modulate heating, cooling, and ventilation accurately.
+Student Ans:  To Measure and monitor temperature for automatic ACMV Control
+
+GPT Feedback:
+Right points: To Measure and monitor temperature for automatic ACMV Control
+Improve on: The answer is too brief and lacks detail. It should mention real-time data and the modulation of heating, cooling, and ventilation.
+Score: 70%
+
+------------------------------------------------------------
