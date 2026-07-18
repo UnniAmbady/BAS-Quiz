@@ -4702,3 +4702,17 @@ Improve on: The student answer does not address the question or provide any rele
 Score: 0%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 20:42:56
+Name:         Muhelan S/O Balakrishnan
+Question:      What is the primary role of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data to zone controllers to modulate heating, cooling, and energy algorithms, ensuring comfort and energy efficiency.
+Student Ans:  The primary role of temperature sensors in a Building Automation System (BAS) is to monitor temperature and provide feedback to automatically control the HVAC system.
+
+GPT Feedback:
+Right points: The student correctly identifies the role of temperature sensors in monitoring temperature and providing feedback for control.
+Improve on: The answer lacks details about real-time data, zone controllers, and energy efficiency aspects. It could mention modulation of heating and cooling.
+Score: 85%
+
+------------------------------------------------------------
