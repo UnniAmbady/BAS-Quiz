@@ -4743,3 +4743,17 @@ Improve on: The student answer lacks specifics about CO2 concentration and its r
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 21:00:33
+Name:         Thaw Zin Shine
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data to zone controllers, allowing precise modulation of heating, ventilation, and air conditioning (HVAC) systems to ensure comfort and energy efficiency.
+Student Ans:  Measure room temperature in ACMV System for occupancy comfortable and improve the energy efficiency
+
+GPT Feedback:
+Right points: Measure room temperature, improve energy efficiency.
+Improve on: "ACMV System" should be "HVAC systems." "Occupancy comfortable" should be "occupant comfort." The phrase could be more clearly expressed.
+Score: 75%
+
+------------------------------------------------------------
