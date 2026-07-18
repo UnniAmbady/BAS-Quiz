@@ -3758,3 +3758,16 @@ Improve on: The answer does not explicitly mention "real-time data" or "precise 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 08:44:25
+Name:         Narayanasamy manikantan
+Question:      What is the primary purpose of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors control ventilation by using CO2 concentration as a proxy for human occupancy, helping to maintain indoor air quality and reduce energy consumption.
+Student Ans:  The primary purpose of carbon dioxide (CO₂) sensors in Building Automation Systems (BAS) is to monitor indoor CO₂ levels and control the ventilation system to maintain good indoor air quality and improve energy efficiency.
+
+GPT Feedback:
+Right points: The main purpose of CO₂ sensors is to monitor indoor levels and control ventilation. They help maintain air quality and improve energy efficiency.
+Improve on: The answer could specify that CO₂ concentration is a proxy for human occupancy.
+Score: 85%
+
+------------------------------------------------------------
