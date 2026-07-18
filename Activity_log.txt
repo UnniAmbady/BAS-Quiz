@@ -4468,3 +4468,24 @@ Improve on: The student answer is correct but could be more concise. The phrase 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 20:02:47
+Name:         Mookkaiah saravanakumar
+Question:      What is the primary purpose of Building Automation Systems (BAS)?  
+
+Modal Answer:  The primary purpose of BAS is to link various building systems, such as HVAC, lighting, and security, to operate as a coordinated system, improving efficiency and comfort while reducing costs.
+Student Ans:  Building Automation Systems (BAS) exist to centrally monitor and control a building's mechanical and electrical equipment — mainly HVAC, lighting, security, fire safety, and power systems — so the building runs efficiently, comfortably, and safely with minimal manual intervention.
+Key goals:
+Energy efficiency — optimizing heating, cooling, and lighting based on occupancy, schedules, and outdoor conditions to cut waste
+Comfort — maintaining consistent temperature, humidity, and air quality for occupants
+Centralized control — letting facility staff monitor and adjust systems from one interface instead of managing each system separately
+Equipment longevity — reducing wear by avoiding unnecessary cycling and enabling predictive maintenance
+Safety and compliance — integrating fire alarms, access control, and emergency systems, and helping meet regulatory standards
+Cost savings — lowering utility and labor costs through automation and data-driven adjustments
+In short, a BAS acts as the "brain" of a building, coordinating disparate systems so they work together intelligently rather than running independently.
+
+GPT Feedback:
+Right points: The student accurately describes the purpose of BAS, mentioning key systems like HVAC, lighting, and security. They also highlight goals like energy efficiency, comfort, centralized control, equipment longevity, safety, compliance, and cost savings.
+Improve on: The phrase "mainly HVAC, lighting, security, fire safety, and power systems" could be more concise. Also, the answer could better emphasize the primary purpose of linking systems as stated in the correct answer.
+Score: 85%
+
+------------------------------------------------------------
