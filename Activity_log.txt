@@ -4309,3 +4309,16 @@ Improve on: The phrase "control of real time thermal data" is unclear. It should
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 18:37:24
+Name:         sathiya jothi balan Santhosh
+Question:      What is the primary function of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  They serve as a reliable proxy for human occupancy intensity and enable demand-controlled ventilation.
+Student Ans:  it is used for indoor air quality and improve energy by enabling damaged control ventilation 
+
+GPT Feedback:
+Right points: They serve as a reliable proxy for human occupancy intensity.
+Improve on: "it is used for indoor air quality" should specify "it is used to measure indoor air quality." "improve energy" should be "improve energy efficiency." "damaged control ventilation" should be "demand-controlled ventilation."
+Score: 80%
+
+------------------------------------------------------------
