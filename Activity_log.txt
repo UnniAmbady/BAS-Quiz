@@ -4900,3 +4900,16 @@ Improve on: "real-time data" should be mentioned. "adjust set-points" is missing
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 23:11:46
+Name:         Balamurugan
+Question:      What is the purpose of carbon-dioxide sensors in Building Automation Systems?  
+
+Modal Answer:  Carbon-dioxide sensors are used to monitor CO2 concentration, serving as a proxy for human occupancy intensity, which enables demand-controlled ventilation to maintain indoor air quality.
+Student Ans:  Monitor CO2 level, control ventilation and improve indoor air quality.
+
+GPT Feedback:
+Right points: Monitor CO2 level, control ventilation, improve indoor air quality.
+Improve on: The student answer lacks detail about using CO2 sensors as a proxy for human occupancy intensity. It should mention that CO2 sensors help in demand-controlled ventilation.
+Score: 85%
+
+------------------------------------------------------------
