@@ -4176,3 +4176,17 @@ Improve on: "the BAS use" should be "the BAS uses". "HAVAC" should be "HVAC".
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 11:57:39
+Name:         Sathan Senthilkumaran
+Question:      What is the main purpose of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the warmth or coolness of a space, enabling precise control of HVAC systems to maintain comfort and energy efficiency.
+Student Ans:  A temperature sensor in a Building automation system (BAS) measures the temperature of rooms, air ducts, or equipment and sends real-time data to the BAS controller. the BAS uses this information to automatically control heating and air-conditioning (HVAC), maintain a comfortable temperature, and reduce energy consumption
+
+GPT Feedback:
+Right points: A temperature sensor measures temperature and sends real-time data. The BAS uses this data to control HVAC and maintain comfort.
+Improve on: The phrase "in a Building automation system (BAS)" could be more concise. "the BAS" should be capitalized as "The BAS." The mention of "automatically control heating and air-conditioning" is slightly redundant with "HVAC."
+Score: 85%
+
+------------------------------------------------------------
