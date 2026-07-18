@@ -3928,3 +3928,17 @@ Improve on: The student answer lacks specifics about zone controllers, set-point
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:37:09
+Name:         Chua Siok Nee
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the thermal conditions of spaces, allowing for precise control of heating and cooling systems.
+Student Ans:  To provide real-time temperature data to the BAS so that zone controllers can precisely modulate set-points, heating valve strokes, and chiller loads.
+
+GPT Feedback:
+Right points: Provides real-time temperature data, allows precise control.
+Improve on: "BAS" should be spelled out as "Building Automation System" for clarity. The phrase "modulate set-points, heating valve strokes, and chiller loads" is more detailed but less concise than the correct answer. Simplifying would improve clarity.
+Score: 85%
+
+------------------------------------------------------------
