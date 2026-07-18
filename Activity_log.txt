@@ -3956,3 +3956,17 @@ Improve on: "spaces, ducts, and equipment" - should focus on "space" rather than
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:41:59
+Name:         Chua Siok Nee
+Question:      What function do carbon-dioxide sensors serve in a Building Automation System?
+
+
+Modal Answer:  Carbon-dioxide sensors help manage ventilation by using CO2 concentration as a proxy for human occupancy, enabling demand-controlled ventilation to optimize indoor air quality and reduce energy consumption.
+Student Ans:  Carbon-dioxide sensors help to control ventilation by using CO2 levels as a proxy for occupancy intensity, ensuring efficient air quality management
+
+GPT Feedback:
+Right points: Carbon-dioxide sensors help to control ventilation by using CO2 levels as a proxy for occupancy.
+Improve on: "occupancy intensity" should be "human occupancy." "ensuring efficient air quality management" could be more specific about optimizing indoor air quality and reducing energy consumption.
+Score: 85%
+
+------------------------------------------------------------
