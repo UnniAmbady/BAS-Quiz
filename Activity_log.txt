@@ -4060,3 +4060,37 @@ Improve on: The answer doesn't specifically mention integration of various syste
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:53:49
+Name:         Rengasamy Bharathi
+Question:      What is the main purpose of Building Automation Systems (BAS)?  
+
+Modal Answer:  To link sensors, controllers, and communication networks to automate and optimize the operation of building systems like HVAC, lighting, and security.
+Student Ans:  The main function of temperature sensors in a Building Automation System (BAS) is to act as the "eyes and ears" of the building's climate control, providing real-time data to ensure occupant comfort, energy efficiency, and equipment safety.
+Instead of just displaying the temperature like a old-school wall thermometer, these sensors constantly feed data back to a centralized controller to trigger automated actions.
+Here is a breakdown of their primary roles:
+Maintaining Occupant Comfort: They monitor individual zones (offices, conference rooms, hallways) and tell the BAS when to modulate HVAC components—like opening air dampers or adjusting fan speeds—to keep spaces within a specific comfort zone (usually 20 
+∘
+ C to 24 
+∘
+ C).
+Driving Energy Efficiency: By accurately tracking temperature, the BAS can execute energy-saving strategies like night setbacks (letting the building warm up or cool down when empty) or economizer cycles (using cool outdoor air for free cooling instead of running energy-hungry chillers).
+Equipment Protection & Safety: Strategically placed sensors monitor critical infrastructure. For example, a sensor in the air handling unit can detect freezing temperatures and shut down the system before the water coils burst. They also monitor server rooms to prevent expensive IT hardware from overheating.
+Common Types of Temperature Sensors in a BAS
+Depending on where they are placed and what they are measuring, temperature sensors take on a few different forms:
+Sensor Type	Where It's Placed	What It Does
+Space / Wall Sensors	Inside occupied rooms	Measures the immediate ambient temperature for occupant comfort. Often includes a local override dial.
+Duct Sensors	Inside supply, return, or exhaust air ducts	Measures the temperature of the air moving through the ventilation system to verify if heating/cooling cycles are working.
+Immersion Sensors	Inside pipes (chilled or hot water lines)	Sits inside a protective well (thermowell) to measure water temperature, helping manage chiller and boiler efficiency.
+Outside Air Sensors (OAT)	On the exterior of the building (shaded north wall)	Tells the BAS what the weather is doing so the system can predict heating/cooling loads or switch to "free cooling" modes.
+The Feedback Loop: A temperature sensor doesn't actually turn anything on or off. It simply measures a variable and sends a signal (like a changing electrical resistance) to the BAS controller. The controller compares that signal to the desired setpoint and decides whether to open a valve, turn on a fan, or ramp up a compressor.
+
+GPT Feedback:
+Right points: ** The explanation of temperature sensors' roles in occupant comfort, energy efficiency, and equipment safety is accurate. The breakdown of sensor types and their functions is well detailed.
+
+**
+Improve on: ** The student answer does not directly address the primary purpose of linking sensors, controllers, and communication networks for automation and optimization in building systems. It focuses too much on temperature sensors instead of the broader context of building automation. A more direct connection to BAS functions and their integration is needed.
+
+**
+Score: ** 85%
+
+------------------------------------------------------------
