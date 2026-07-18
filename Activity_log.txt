@@ -3850,3 +3850,15 @@ Improve on: The answer is overly detailed and goes beyond the main requirement. 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 09:43:00
+Name:         Thangaraju Suresh
+Question:     What does a Building Automation System primarily manage to enhance building efficiency?
+Modal Answer: A Building Automation System primarily manages HVAC, lighting, power distribution, fire protection, vertical transport, and security assets to enhance building efficiency.
+Student Ans:  A Building Automation System (BAS) primarily manages HVAC (Heating, Ventilation, and Air Conditioning) systems to enhance building efficiency.Because HVAC systems consume the largest share of a commercial building's energy, the BAS focuses on this equipment to drive down costs and waste. It achieves this by continuously gathering real-time environmental data—such as temperature, humidity, and occupancy—to precisely modulate system components like variable-frequency drives (VFDs), chillers, boilers, and air dampers. This tight control loop ensures that heating, cooling, and airflow exactly match the building's actual, immediate demand rather than running at full capacity unnecessarily.While HVAC is the primary focus, a comprehensive BAS also coordinates other major energy-consuming systems to maximize efficiency, including:Lighting Controls: Scheduling lights based on time-of-day or occupancy sensors, and utilizing daylight harvesting.Electrical & Power Systems: Monitoring energy consumption meters and shedding non-critical loads during peak demand hours.Plumbing & Water Systems: Managing domestic hot water loops, pump runtimes, and detecting leaks.
+
+GPT Feedback:
+Right points: The answer correctly identifies HVAC as the primary focus of a BAS and mentions its role in enhancing building efficiency. It also highlights the use of real-time data for system modulation.
+Improve on: The answer lacks mention of other systems managed by a BAS, such as lighting, power distribution, fire protection, vertical transport, and security assets. It should include these to provide a complete overview.
+Score: 85%
+
+------------------------------------------------------------
