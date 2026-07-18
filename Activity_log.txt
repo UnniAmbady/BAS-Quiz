@@ -4795,3 +4795,17 @@ Improve on: "in different parts of building" should be "in different parts of a 
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 21:25:31
+Name:         Muhammad Zunnurain Akmal
+Question:      What is the function of carbon-dioxide sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation to maintain indoor air quality and reduce energy consumption.
+Student Ans:  It is to measure the concentration of carbon dioxide in the building and provide data to the BAS to control  ventilation
+
+GPT Feedback:
+Right points: It mentions measuring carbon dioxide concentration and controlling ventilation.
+Improve on: The answer lacks detail about the proxy for human occupancy and the benefits of demand-controlled ventilation. It should include how it helps maintain air quality and reduce energy consumption.
+Score: 75%
+
+------------------------------------------------------------
