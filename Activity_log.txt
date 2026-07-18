@@ -4403,3 +4403,16 @@ Improve on: Needs to mention real-time data, modulation of heating and cooling, 
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 18:53:02
+Name:         kumar s/o samugam
+Question:      What is the primary function of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  They provide real-time data on the temperature of spaces, which is crucial for comfort and energy algorithms.
+Student Ans:  The function of CO2 sensors in a BAS is to measure indoor carbon dioxide levels to assess air quality and occupancy and control ventilation rates accordingly.
+
+GPT Feedback:
+Right points: The function of CO2 sensors is accurately described. They assess air quality and control ventilation.
+Improve on: The answer does not mention temperature measurement or energy algorithms. It lacks relevance to the original context.
+Score: 80%
+
+------------------------------------------------------------
