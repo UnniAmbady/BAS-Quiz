@@ -4689,3 +4689,16 @@ Improve on: The answer lacks detail and explanation. It should mention carbon-di
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 20:42:16
+Name:         Han Tun Maung
+Question:      What are the main components that make up a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS primarily consists of sensors, controllers, communication networks, and software that manage HVAC, lighting, power distribution, fire protection, and security systems.
+Student Ans:  Thanks 
+
+GPT Feedback:
+Right points: None.
+Improve on: The student answer does not address the question or provide any relevant information about a BAS.
+Score: 0%
+
+------------------------------------------------------------
