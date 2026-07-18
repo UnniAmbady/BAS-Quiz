@@ -4835,3 +4835,16 @@ Improve on: The answer could be more concise. Remove "In a Building Automation S
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 21:53:09
+Name:         Wesley Teo
+Question:      What is the role of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation that optimizes indoor air quality and reduces energy consumption.
+Student Ans:  In a Building Automation System (BAS), carbon dioxide ($\text{CO}_2$) sensors primary serve to enable Demand-Controlled Ventilation (DCV) by monitoring real-time indoor occupancy via exhaled $\text{CO}_2$ levels. This dynamic monitoring enables the system to adjust fresh outdoor air intake and fan speeds precisely when crowd sizes change, ensuring optimal indoor air quality (IAQ) and preventing issues like occupant headaches or drowsiness. By replacing fixed-rate ventilation schedules, this automated control delivers significant energy efficiency by ensuring the HVAC system does not waste power conditioning unnecessary volumes of outdoor air when spaces are empty or partially vacant. Additionally, these sensors help facilities adhere to ventilation codes like ASHRAE 62.1 and provide a vital safety layer by detecting hazardous gas leaks in commercial or industrial environments.
+
+GPT Feedback:
+Right points: The answer correctly identifies the role of carbon dioxide sensors in enabling demand-controlled ventilation (DCV) and improving indoor air quality (IAQ). It mentions the benefits of energy efficiency and adherence to ventilation codes.
+Improve on: The phrase "primary serve" should be corrected to "primarily serve." The mention of "crowd sizes" could be simplified to "occupancy." The sentence about hazardous gas leaks is somewhat tangential and could be more focused on the primary function of the sensors.
+Score: 85%
+
+------------------------------------------------------------
