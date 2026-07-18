@@ -4218,3 +4218,17 @@ Improve on: The phrase "detect the presence or movement of people in space" coul
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 12:35:47
+Name:         Sathan Senthilkumaran
+Question:      What role do carbon-dioxide sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors detect CO2 concentration to regulate ventilation, ensuring indoor air quality and optimizing energy use based on occupancy levels.
+Student Ans:  Corbon-dioxide (CO2) sensors monitor CO2 levels and estimate occupancy levels in a building. The BAS uses this information to automatically adjust fresh-air ventilation based on demand. This improves indoor air quality and occupant comfort while saving energy by reducing unnecessary fan operation, cooling, and reheating when occupancy is low. This is known as demand-controlled ventilation (DCV)
+
+GPT Feedback:
+Right points: CO2 sensors monitor CO2 levels. They adjust fresh-air ventilation based on demand. This improves indoor air quality and saves energy.
+Improve on: "Corbon-dioxide" should be "Carbon-dioxide." The phrase "estimate occupancy levels" is less accurate than "regulate ventilation." "BAS" should be defined as Building Automation System for clarity.
+Score: 85%
+
+------------------------------------------------------------
