@@ -4442,3 +4442,29 @@ Improve on: The answer lacks detail about real-time data and modulation of set-p
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 20:02:00
+Name:         Mookkaiah saravanakumar
+Question:      What is the main purpose of Building Automation Systems (BAS)?  
+
+Modal Answer:  BAS links sensors, controllers, and communication networks to optimize HVAC, lighting, and other systems for energy efficiency and comfort.
+Student Ans:  The main purpose of a Building Automation System (BAS) is to automatically monitor, control, and optimize a building's mechanical and electrical systems to improve efficiency, comfort, safety, and operational performance.
+A BAS typically manages systems such as:
+Heating, Ventilation, and Air Conditioning (HVAC) – maintains comfortable temperature and air quality.
+Lighting – controls lighting schedules and occupancy-based operation.
+Energy Management – reduces energy consumption and operating costs.
+Security and Access Control – monitors entrances, alarms, and surveillance systems.
+Fire and Life Safety Systems – integrates monitoring and notifications.
+Key Benefits
+Energy Efficiency – minimizes wasted energy through automated control.
+Occupant Comfort – maintains consistent indoor environmental conditions.
+Operational Cost Savings – reduces utility and maintenance expenses.
+Centralized Monitoring and Control – allows facility managers to oversee building systems from a single interface.
+Improved Reliability and Maintenance – detects faults early and supports preventive maintenance.
+In short, a BAS acts as the central nervous system of a building, coordinating various systems to make the building safer, more comfortable, and more energy-efficient.
+
+GPT Feedback:
+Right points: The answer correctly identifies the purpose of a BAS and lists various systems it manages. It also mentions key benefits like energy efficiency and occupant comfort.
+Improve on: The student answer is correct but could be more concise. The phrase "automatically monitor, control, and optimize" is a bit wordy. A more direct phrasing could enhance clarity. Also, the answer could explicitly mention communication networks as part of the BAS.
+Score: 85%
+
+------------------------------------------------------------
