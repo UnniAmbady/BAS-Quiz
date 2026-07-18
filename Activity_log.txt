@@ -3771,3 +3771,17 @@ Improve on: The answer could specify that CO₂ concentration is a proxy for hum
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 09:16:28
+Name:         SELVARAJ RAJKAMAL
+Question:      What is the primary function of carbon-dioxide sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentration to enable demand-controlled ventilation, improving indoor air quality and reducing fan energy usage.
+Student Ans:  To monitor a indoor CO2 level  concentration and automatically adjust  fresh air ventilation 
+
+GPT Feedback:
+Right points: Carbon-dioxide sensors monitor CO2 concentration.
+Improve on: "a indoor" should be "indoor." "fresh air ventilation" should be "fresh air ventilation." The sentence lacks clarity about improving air quality and reducing energy usage.
+Score: 75%
+
+------------------------------------------------------------
