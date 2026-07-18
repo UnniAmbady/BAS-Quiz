@@ -4848,3 +4848,16 @@ Improve on: The phrase "primary serve" should be corrected to "primarily serve."
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 21:53:21
+Name:         Wesley Teo
+Question:      What is the role of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors serve as a reliable proxy for human occupancy intensity, enabling demand-controlled ventilation that optimizes indoor air quality and reduces energy consumption.
+Student Ans:  next question 
+
+GPT Feedback:
+Right points: None
+Improve on: The student answer does not address the question. It should provide information about carbon-dioxide sensors and their role in indoor air quality and energy consumption.
+Score: 0%
+
+------------------------------------------------------------
