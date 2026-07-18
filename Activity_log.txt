@@ -4642,3 +4642,24 @@ Improve on: The student missed mentioning "demand-controlled ventilation" explic
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 20:41:24
+Name:         Han Tun Maung
+Question:      What are the main components that make up a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS primarily consists of sensors, controllers, communication networks, and software that manage HVAC, lighting, power distribution, fire protection, and security systems.
+Student Ans:  A Building Automation System (BAS) consists of several key components that work together to monitor, control, and optimise building operations.
+
+1. Sensors – Collect real-time data such as temperature, humidity, CO₂, occupancy, pressure, airflow, light level and smoke.
+2. Actuators – Execute control commands by operating dampers, control valves, variable frequency drives (VFDs), relays, contactors and motorised devices.
+3. Controllers (PLC, DDC and RTU) – Process input signals from sensors, execute control logic, and send output commands to actuators to maintain the required operating conditions.
+4. Communication Network – Enables data exchange between field devices, controllers and the supervisory system using protocols such as BACnet, Modbus, KNX, LonWorks and DALI.
+5. Supervisory Software (BMS/BAS Workstation) – Provides the Human Machine Interface (HMI) for monitoring, alarm management, scheduling, trend logging, reporting, energy management and system control.
+6. Database and Server – Store historical data, trends, alarm records, schedules and system configurations for analysis, reporting and maintenance.
+7. Field Devices and Building Equipment – Includes HVAC systems, chillers, pumps, fans, lighting systems, power distribution equipment, fire protection systems, lifts, access control and security systems that are monitored and controlled by the BAS.
+
+GPT Feedback:
+Right points: The answer correctly identifies key components of a BAS, such as sensors, actuators, controllers, communication networks, supervisory software, and field devices.
+Improve on: The answer is detailed but lacks mention of "fire protection" and "security systems" explicitly as part of the BAS components. It should also emphasize that these components work together to manage HVAC, lighting, and power distribution.
+Score: 85%
+
+------------------------------------------------------------
