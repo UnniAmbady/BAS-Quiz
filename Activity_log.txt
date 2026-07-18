@@ -3809,3 +3809,17 @@ Improve on: The answer lacks a direct mention of temperature sensors specificall
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 09:38:49
+Name:         Thangaraju Suresh
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+
+Temperature sensors form the backbone of every BAS as they provide real-time data essential for maintaining comfort and energy efficiency by modulating set-points and loads.
+Modal Answer: 
+Student Ans:  The Backbone: Without real-time data, a BAS cannot make logical decisions.Real-Time Data: Continuous data streams remove operational lag and prevent indoor temperature swings.Modulating Set-Points: The system dynamically shifts target temperatures based on live factors like occupancy or peak-demand hours.Modulating Loads: Instead of wasting energy with harsh ON/OFF cycling, the system throttles component speeds, valve openings, and fan rates to precisely match the building's actual thermal needs.If you are expanding on this concept, let me know if you would like to:Look at a control loop diagram (like a PID loop) to see how real-time data calculates modulation.Explore how this modulation applies to Variable Air Volume (VAV) boxes.Review the network protocols (like BACnet or Modbus) used to transmit this real-time data.
+
+GPT Feedback:
+Right points: The Backbone, Real-Time Data, Modulating Set-Points, Modulating Loads are correctly mentioned. The explanation of each part is logical and relevant.
+Improve on: The introduction is too abrupt. It could use a clearer opening statement. The last sentence is somewhat informal and could be more structured.
+Score: 85%
+
+------------------------------------------------------------
