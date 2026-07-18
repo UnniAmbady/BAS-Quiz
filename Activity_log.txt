@@ -4108,3 +4108,17 @@ Improve on: The answer lacks detail about managing ventilation, occupancy, and b
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 11:30:10
+Name:         Sathan Senthilkumaran
+Question:      What role do carbon-dioxide sensors play in Building Automation Systems (BAS)?
+
+
+Modal Answer:  Carbon-dioxide sensors help manage ventilation by using CO2 concentration as a proxy for occupancy, enabling demand-controlled ventilation to enhance indoor air quality and reduce energy usage.
+Student Ans:  Estimate occupancy level because CO2 usually increase when more people are present, improve indoor air quality and occupant comport, control fresh air ventilation automatically based on demand, save energy by reducing unnecessary fan operation, cooling and reheating when occupancy is low, this is called demand  controlled ventilation. 
+
+GPT Feedback:
+Right points: CO2 usually increases when more people are present, improve indoor air quality, control fresh air ventilation automatically based on demand, save energy, demand-controlled ventilation.
+Improve on: "Estimate occupancy level" is vague; should state "Carbon-dioxide sensors estimate occupancy levels." "Occupant comport" should be "occupant comfort." "Cooling and reheating when occupancy is low" is a bit unclear; should specify "reducing cooling and reheating."
+Score: 85%
+
+------------------------------------------------------------
