@@ -3797,3 +3797,15 @@ Improve on: The answer is incomplete. It should mention real-time data and modul
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 09:37:18
+Name:         Thangaraju Suresh
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors are essential in a BAS as they provide real-time data on the temperature of spaces and equipment, allowing for precise modulation of heating and cooling systems.
+Student Ans:   Sensors do not just take occasional snapshots; they stream continuous, real-time data to the BAS controller.Rapid .Response: This real-time loop allows the system to detect instant thermal changes, such as a sudden influx of people into a conference room or direct sunlight hitting a wall.Eliminating Lag: Constant data updates prevent the system from reacting too late, which eliminates wide temperature swings and keeps the indoor climate completely stable.
+
+GPT Feedback:
+Right points: The student mentions real-time data and continuous updates, which are relevant to temperature sensors in a BAS. They also highlight the importance of rapid response and stability in indoor climate.
+Improve on: The answer lacks a direct mention of temperature sensors specifically. It should emphasize that temperature sensors are the ones providing this data. The phrases "Eliminating Lag" and "Rapid .Response" should be formatted properly for clarity.
+Score: 85%
+
+------------------------------------------------------------
