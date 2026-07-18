@@ -3730,3 +3730,17 @@ Improve on: The answer does not specifically mention energy management and optim
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 08:41:17
+Name:         Narayanasamy manikantan
+Question:      What do Building Automation Systems (BAS) primarily link together to manage building operations?
+
+
+Modal Answer:  BAS link sensors, controllers, and communication networks to manage HVAC, lighting, power distribution, fire protection, and security assets.
+Student Ans:  Building Automation Systems (BAS) primarily link together a building's mechanical, electrical, and electronic systems to centrally monitor and control building operations.
+
+GPT Feedback:
+Right points: BAS link together a building's systems to monitor and control operations.
+Improve on: The answer lacks specific mention of HVAC, lighting, power distribution, fire protection, and security assets. Should include these elements for completeness.
+Score: 85%
+
+------------------------------------------------------------
