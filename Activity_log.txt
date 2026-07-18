@@ -4232,3 +4232,17 @@ Improve on: "Corbon-dioxide" should be "Carbon-dioxide." The phrase "estimate oc
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 13:30:47
+Name:         NURUL LEIA BINTE SUHAIMI
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide essential data for comfort and energy algorithms, enabling precise modulation of heating, cooling, and airflow in a space.
+Student Ans:  They act as the “eyes and ears” of Building Automation System (BAS).
+
+GPT Feedback:
+Right points: They act as the “eyes and ears” of Building Automation System (BAS).
+Improve on: The answer lacks detail on the role of temperature sensors in comfort and energy algorithms. It should mention how they enable modulation of heating, cooling, and airflow.
+Score: 75%
+
+------------------------------------------------------------
