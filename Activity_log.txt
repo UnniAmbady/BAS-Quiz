@@ -4047,3 +4047,16 @@ Improve on: The sentence structure is a bit lengthy and could be simplified for 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:52:36
+Name:         Manivel Balamurugan
+Question:      What is the main function of a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS integrates various building systems like HVAC, lighting, and security to operate efficiently and coordinate their responses based on real-time data.
+Student Ans:  The main function of a Building Automation System is to automatically monitor, control, and optimize a building's mechanical and electrical (M&E) systems to improve comfort, energy efficiency, safety, and operational performance.
+
+GPT Feedback:
+Right points: The answer mentions monitoring, controlling, and optimizing M&E systems. It also highlights comfort, energy efficiency, safety, and performance.
+Improve on: The answer doesn't specifically mention integration of various systems or real-time data coordination. It could improve by including these aspects.
+Score: 85%
+
+------------------------------------------------------------
