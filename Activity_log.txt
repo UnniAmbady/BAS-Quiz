@@ -3970,3 +3970,15 @@ Improve on: "occupancy intensity" should be "human occupancy." "ensuring efficie
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:43:54
+Name:         Chua Siok Nee
+Question:     What is the role of temperature sensors in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors provide real-time data on temperature levels, allowing the BAS to accurately modulate set-points and control heating and cooling effectively.
+Student Ans:  Temperature sensors provide real-time data on the warmth or coolness of a space, enabling precise control of heating and colling systems to maintain comfort and energy efficiency
+
+GPT Feedback:
+Right points: Temperature sensors provide real-time data on the warmth or coolness of a space. Enables precise control of heating and cooling systems.
+Improve on: "colling" should be corrected to "cooling." The phrase "to maintain comfort and energy efficiency" is less specific than "allowing the BAS to accurately modulate set-points."
+Score: 85%
+
+------------------------------------------------------------
