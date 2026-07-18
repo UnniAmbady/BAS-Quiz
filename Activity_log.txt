@@ -3942,3 +3942,17 @@ Improve on: "BAS" should be spelled out as "Building Automation System" for clar
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:39:06
+Name:         Chua Siok Nee
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the warmth or coolness of a space, enabling precise control of heating and cooling systems to maintain comfort and energy efficiency.
+Student Ans:  provide real-time temperature data of spaces, ducts, and equipment to zone controllers, enabling precise modulation of set-points, heating valve strokes, and chiller loads for comfort and energy efficiency
+
+GPT Feedback:
+Right points: provide real-time temperature data, enabling precise modulation for comfort and energy efficiency.
+Improve on: "spaces, ducts, and equipment" - should focus on "space" rather than listing items. "zone controllers" - could be simplified to "systems." "heating valve strokes" and "chiller loads" - too technical; should mention "heating and cooling systems."
+Score: 85%
+
+------------------------------------------------------------
