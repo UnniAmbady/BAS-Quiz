@@ -4284,3 +4284,16 @@ Improve on: "HAVC" should be "HVAC." The phrase "to the BAS controller" is somew
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 14:01:22
+Name:         boopathi senthamilarasan
+Question:      What technology do carbon-dioxide sensors in Building Automation Systems primarily rely on to monitor occupancy?  
+
+Modal Answer:  Carbon-dioxide sensors use nondispersive infrared (NDIR) cells to compare reference and sample wavelengths for monitoring occupancy.
+Student Ans:  CO2 sensors in BAS primarily rely on NDIR-Non-Dispersive infrared technology.
+
+GPT Feedback:
+Right points: CO2 sensors in BAS primarily rely on NDIR-Non-Dispersive infrared technology.
+Improve on: The answer lacks detail on how NDIR cells compare reference and sample wavelengths. It should mention monitoring occupancy.
+Score: 85%
+
+------------------------------------------------------------
