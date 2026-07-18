@@ -4376,3 +4376,16 @@ Improve on: The phrase "enabling precise modulation of set-points and HVAC opera
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 18:44:29
+Name:         Ng Ming Zhang, Evan
+Question:      What is the primary role of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data essential for modulating comfort and energy algorithms to maintain optimal space conditions.
+Student Ans:  Temperature sensors measure temperature to control heating and cooling, maintaining comfort and optimising energy efficiency.
+
+GPT Feedback:
+Right points: Temperature sensors measure temperature. They control heating and cooling. They maintain comfort and optimise energy efficiency.
+Improve on: The phrase "real-time data essential for modulating comfort and energy algorithms" is missing. It should emphasize the importance of real-time data and algorithms for optimal conditions.
+Score: 85%
+
+------------------------------------------------------------
