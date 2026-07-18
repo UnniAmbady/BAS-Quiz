@@ -4258,3 +4258,16 @@ Improve on: The answer lacks details about CO2 concentration and energy consumpt
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 13:35:05
+Name:         NURUL LEIA BINTE SUHAIMI
+Question:      What is the main purpose of Building Automation Systems (BAS)?  
+
+Modal Answer:  The main purpose of BAS is to link sensors, controllers, and communication networks to automate and optimize the operation of HVAC, lighting, and other building systems for improved efficiency and comfort.
+Student Ans:  The main purpose of a Building Automation System (BAS) is to provide centralized, automatic control of a facility's mechanical and electrical equipment.
+
+GPT Feedback:
+Right points: The main purpose of a Building Automation System (BAS) is to provide centralized, automatic control of a facility's mechanical and electrical equipment.
+Improve on: The answer lacks detail about linking sensors, controllers, and communication networks. It should mention optimizing HVAC, lighting, and other systems for efficiency and comfort.
+Score: 85%
+
+------------------------------------------------------------
