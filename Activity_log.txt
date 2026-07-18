@@ -4757,3 +4757,15 @@ Improve on: "ACMV System" should be "HVAC systems." "Occupancy comfortable" shou
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 21:01:31
+Name:         Thaw Zin Shine
+Question:     What is the primary purpose of temperature sensors in a Building Automation System (BAS)?
+Modal Answer: To provide real-time data on temperature, enabling precise modulation of heating, cooling, and energy algorithms.
+Student Ans:  we measure and control the room temperature in ACMV system for occupancy comfortable and improve the energy efficiency.
+
+GPT Feedback:
+Right points: Control room temperature, improve energy efficiency.
+Improve on: "we measure and control" should be “We provide real-time data on temperature,” and "ACMV system for occupancy comfortable" should be rephrased to “enabling precise modulation of heating and cooling.”
+Score: 80%
+
+------------------------------------------------------------
