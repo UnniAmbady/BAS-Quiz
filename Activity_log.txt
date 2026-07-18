@@ -4502,3 +4502,16 @@ Improve on: The answer lacks detail about CO2 as a proxy for human occupancy. It
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 20:30:51
+Name:         Joselito Jaro Jurilla
+Question:      What is the role of a Programmable Logic Controller (PLC) in a Building Automation System?  
+
+Modal Answer:  A PLC is an industrial computer designed for real-time control of equipment, executing complex sequences and ensuring reliable operation of systems like chillers and boilers.
+Student Ans:  A PLC serves as the local controller within a Building Automation System. It reads information from sensors, executes programmed control logic, operates building equipment, monitors system performance, and communicates with the central BMS to ensure the building operates safely, comfortably, and efficiently.
+
+GPT Feedback:
+Right points: A PLC serves as a controller, reads information from sensors, executes control logic, operates equipment, and monitors performance.
+Improve on: The answer does not explicitly mention "real-time control" or "reliable operation of systems." It could also clarify that a PLC is an "industrial computer."
+Score: 85%
+
+------------------------------------------------------------
