@@ -3710,3 +3710,23 @@ Improve on: The answer lacks detail about how these functions relate to a Buildi
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 08:39:07
+Name:         Narayanasamy manikantan
+Question:      What feature allows Building Automation Systems (BAS) to improve energy management and efficiency by analysing real-time data against factors like weather and occupancy?  
+
+Modal Answer:  Energy Management and Optimisation dashboards.
+Student Ans:  A Building Automation System (BAS) uses analytics to compare real-time data with factors such as:
+
+ Weather conditions
+ Building occupancy
+ Time of day
+Historical energy usage
+
+Based on this analysis, the BAS automatically optimizes HVAC, lighting, and other building systems to reduce energy consumption while maintaining occupant comfort.
+
+GPT Feedback:
+Right points: Building Automation System (BAS) uses analytics. It compares real-time data with weather, occupancy, time, and historical usage. BAS optimizes HVAC and lighting for energy savings and comfort.
+Improve on: The answer does not specifically mention energy management and optimization dashboards. It focuses more on BAS functions rather than the specific topic of dashboards.
+Score: 80%
+
+------------------------------------------------------------
