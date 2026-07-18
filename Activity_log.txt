@@ -3785,3 +3785,15 @@ Improve on: "a indoor" should be "indoor." "fresh air ventilation" should be "fr
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 09:34:25
+Name:         Thangaraju Suresh
+Question:     What role do temperature sensors play in a Building Automation System (BAS)?
+Modal Answer: Temperature sensors are essential in a BAS as they provide real-time data on the temperature of spaces and equipment, allowing for precise modulation of heating and cooling systems.
+Student Ans:  They monitor component temperatures to prevent critical machinery overheating.
+
+GPT Feedback:
+Right points: They monitor component temperatures.
+Improve on: The answer is incomplete. It should mention real-time data and modulation of heating and cooling systems.
+Score: 85%
+
+------------------------------------------------------------
