@@ -4349,3 +4349,17 @@ Improve on: "provide data to the BAS" could be simplified to "optimize energy us
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 18:40:20
+Name:         sathiya jothi balan Santhosh
+Question:      What role do occupancy sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Occupancy sensors detect motion and presence to activate lighting, adjust temperature set-points, or place terminal units into standby, enhancing energy efficiency and space utilization.
+Student Ans:  it is enable the BAS to dynamically adjust lighting, temperature, and ventilation
+
+GPT Feedback:
+Right points: BAS can adjust lighting, temperature, and ventilation.
+Improve on: "it is enable" should be "it enables." More detail on how it enhances efficiency is needed.
+Score: 85%
+
+------------------------------------------------------------
