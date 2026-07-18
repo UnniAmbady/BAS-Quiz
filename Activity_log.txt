@@ -3888,3 +3888,16 @@ Improve on: It lacks detail about temperature and modulation of systems. Should 
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-18 10:07:41
+Name:         Govindasamy Venkatesh
+Question:      What role do carbon-dioxide sensors play in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors monitor CO2 concentration to adjust ventilation based on occupancy, enhancing indoor air quality while reducing energy consumption.
+Student Ans:  to monitor the real time concentration value of the carbon dioxide in the occupied space in the building and CO2 reading will increase the amount of fresh air intake, if the carbon dioxide valve above 1000ppm. to maintain the indoor air quality of the building 
+
+GPT Feedback:
+Right points: The answer mentions monitoring CO2 concentration and adjusting fresh air intake based on levels. It also focuses on indoor air quality.
+Improve on: "to monitor the real time concentration value of the carbon dioxide" should be "to monitor real-time CO2 concentration." "if the carbon dioxide valve above 1000ppm" should be "if the CO2 level exceeds 1000 ppm." "to maintain the indoor air quality of the building" is somewhat redundant since it's already implied.
+Score: 85%
+
+------------------------------------------------------------
