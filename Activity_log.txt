@@ -4927,3 +4927,16 @@ Improve on: The answer lacks detail about carbon-dioxide sensors and their role 
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-19 10:43:05
+Name:         Yoganathen
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data on the temperature of spaces, enabling precise control of heating, cooling, and energy algorithms.
+Student Ans:  Used as inputs for control
+
+GPT Feedback:
+Right points: Used as inputs for control.
+Improve on: The answer lacks detail. It should mention real-time data and specific applications like heating or cooling.
+Score: 70%
+
+------------------------------------------------------------
