@@ -4913,3 +4913,17 @@ Improve on: The student answer lacks detail about using CO2 sensors as a proxy f
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-19 10:41:44
+Name:         Yoganathen
+Question:      What is the role of carbon-dioxide sensors in Building Automation Systems?
+
+
+Modal Answer:  Carbon-dioxide sensors help control ventilation by serving as a proxy for human occupancy intensity, enabling demand-controlled ventilation that enhances indoor air quality and reduces energy use.
+Student Ans:  Saves energy on heating /cooling outside air
+
+GPT Feedback:
+Right points: Saves energy on heating/cooling outside air.
+Improve on: The answer lacks detail about carbon-dioxide sensors and their role in ventilation and indoor air quality. It should mention demand-controlled ventilation.
+Score: 70%
+
+------------------------------------------------------------
