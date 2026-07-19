@@ -4940,3 +4940,15 @@ Improve on: The answer lacks detail. It should mention real-time data and specif
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-19 13:05:53
+Name:         Neeky
+Question:     What is the main function of Carbon-dioxide sensors in a Building Automation System (BAS)?
+Modal Answer: Carbon-dioxide sensors detect CO2 concentration to enable demand-controlled ventilation, improving indoor air quality while optimizing energy use.
+Student Ans:  CO2 concentration serves as a reliable proxy for human occupancy intensity; nondispersive infrared (NDIR) cells continually compare reference and sample wavelengths and enable demand-controlled ventilation that trims fan energy and reheating losses while safeguarding indoor air quality.
+
+GPT Feedback:
+Right points: CO2 concentration serves as a reliable proxy for human occupancy intensity. NDIR cells compare reference and sample wavelengths. Enables demand-controlled ventilation. Improves indoor air quality and optimizes energy use.
+Improve on: The answer is too complex and somewhat verbose. Simplify the language for clarity. "Trims fan energy and reheating losses" could be stated more directly as "optimizing energy use."
+Score: 85%
+
+------------------------------------------------------------
