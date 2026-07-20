@@ -5070,3 +5070,17 @@ Improve on: The answer does not mention "demand-controlled ventilation" or "opti
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-20 22:19:29
+Name:         MARUTHAIYAN GOBINATH
+Question:      What is the primary purpose of Building Automation Systems (BAS)?
+
+
+Modal Answer:  BAS links various building systems like HVAC, lighting, and security to optimize performance, improve energy efficiency, and enhance occupant comfort.
+Student Ans:  To automatically monitor and control building systems (such as HVAC, lighting, and other services) to improve energy efficiency, occupant comfort, safety, and building operation.
+
+GPT Feedback:
+Right points: Mentions monitoring and controlling building systems, improving energy efficiency, occupant comfort, and safety.
+Improve on: Does not explicitly mention linking various systems or optimizing performance. Needs to clarify the connection between systems.
+Score: 80%
+
+------------------------------------------------------------
