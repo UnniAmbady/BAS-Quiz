@@ -4992,3 +4992,16 @@ Improve on: The answer lacks specifics about modulating heating and cooling. It 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-20 19:04:39
+Name:         Pitchai Sanjith
+Question:      What is the primary purpose of temperature sensors in a Building Automation System (BAS)?  
+
+Modal Answer:  Temperature sensors provide real-time data on the warmth or coolness of spaces, allowing precise modulation of heating, cooling, and overall energy management.
+Student Ans:  Temperature sensors monitor room temperature and provide input to automatically control HVAC systems for comfort and energy efficiency.
+
+GPT Feedback:
+Right points: Temperature sensors monitor room temperature. They provide input to control HVAC systems.
+Improve on: The phrase "real-time data on the warmth or coolness of spaces" is more precise. The answer could mention "modulation" of heating and cooling for clarity.
+Score: 85%
+
+------------------------------------------------------------
