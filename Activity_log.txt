@@ -5031,3 +5031,16 @@ Improve on: The student did not provide any content to evaluate or compare. A co
 Score: 0%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-20 22:14:35
+Name:         MARUTHAIYAN GOBINATH
+Question:      What are the key features of an Intelligent Building Management System (IBMS)?  
+
+Modal Answer:  An IBMS integrates multiple subsystems into a single platform, optimizes operations with data-driven autonomy, and enhances decision-making through real-time analytics and predictive algorithms.
+Student Ans:  1, HVAC MONITORING 2, WATER PUMPS AND TANK WATER LEVELS MONITORING, FIRE ALARM INTEGRATION, SECURITY ACCESS CONTROL, ENERGY MANAGEMENT
+
+GPT Feedback:
+Right points: The student lists relevant subsystems related to an IBMS.
+Improve on: The answer lacks a clear explanation of integration, optimization, and decision-making. It should highlight how these subsystems work together for data-driven autonomy and real-time analytics.
+Score: 75%
+
+------------------------------------------------------------
