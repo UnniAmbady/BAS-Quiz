@@ -5044,3 +5044,17 @@ Improve on: The answer lacks a clear explanation of integration, optimization, a
 Score: 75%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-20 22:17:22
+Name:         MARUTHAIYAN GOBINATH
+Question:      What is the role of temperature sensors in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors provide real-time data on the thermal conditions of spaces, enabling precise modulation of set-points and control of heating and cooling systems.
+Student Ans:  MONITORING ROOM OR EQUIPMENT TEMPERATURE, INSTRUCTIONS GIVEN TO HVAC SYSTEM ACCORDING BY TEMPERATURE LEVEL,  GENERATE ALARMS
+
+GPT Feedback:
+Right points: Monitoring temperature, instructions to HVAC, generate alarms.
+Improve on: The answer lacks details on real-time data, modulation of set-points, and control systems. A more precise explanation is needed.
+Score: 75%
+
+------------------------------------------------------------
