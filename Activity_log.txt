@@ -5018,3 +5018,16 @@ Improve on: The main purpose of a BAS **is** to automatically monitor and contro
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-20 22:13:27
+Name:         MARUTHAIYAN GOBINATH
+Question:      What are the key features of an Intelligent Building Management System (IBMS)?  
+
+Modal Answer:  An IBMS integrates multiple subsystems into a single platform, optimizes operations with data-driven autonomy, and enhances decision-making through real-time analytics and predictive algorithms.
+Student Ans:  MY ANSWER IS
+
+GPT Feedback:
+Right points: None of the answer provided.
+Improve on: The student did not provide any content to evaluate or compare. A complete answer is needed.
+Score: 0%
+
+------------------------------------------------------------
