@@ -5005,3 +5005,16 @@ Improve on: The phrase "real-time data on the warmth or coolness of spaces" is m
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-20 19:07:11
+Name:         Pitchai Sanjith
+Question:      What is the main purpose of a Building Automation System (BAS)?  
+
+Modal Answer:  A BAS integrates sensors, controllers, and communication networks to automate and optimize building systems like HVAC, lighting, and security for improved efficiency and operational insight.
+Student Ans:   The main purpose of a  BAS to automatically monitor and control building services for energy efficiency, comfort, and safety.
+
+GPT Feedback:
+Right points: A BAS automatically monitor and control building services for energy efficiency.
+Improve on: The main purpose of a BAS **is** to automatically monitor and control building services for energy efficiency, comfort, and safety. **(add "is")**
+Score: 85%
+
+------------------------------------------------------------
