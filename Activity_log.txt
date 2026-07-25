@@ -5084,3 +5084,16 @@ Improve on: Does not explicitly mention linking various systems or optimizing pe
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-25 22:12:52
+Name:         Manguera Cedrick Songco
+Question:      What purpose does a Building Automation System (BAS) serve in modern facilities?  
+
+Modal Answer:  A BAS links sensors, controllers, and communication networks to coordinate HVAC, lighting, and other systems, optimizing energy efficiency and maintaining comfort levels.
+Student Ans:  BAS exists to run a building's services together, efficiently, and safely, with the data needed to manage and improve how the facility performs.
+
+GPT Feedback:
+Right points: BAS runs building services together efficiently and safely.
+Improve on: The answer lacks details about sensors, controllers, communication networks, HVAC, and lighting. It should mention energy efficiency and comfort levels.
+Score: 80%
+
+------------------------------------------------------------
