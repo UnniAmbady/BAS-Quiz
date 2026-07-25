@@ -5109,3 +5109,17 @@ Improve on: "in a area" should be "in an area." "fresh air is produce" should be
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-25 22:16:34
+Name:         Manguera Cedrick Songco
+Question:      What role do temperature sensors play in a Building Automation System (BAS)?
+
+
+Modal Answer:  Temperature sensors are essential for providing real-time data on the temperature of spaces and equipment, allowing the BAS to modulate set-points and control HVAC systems effectively.
+Student Ans:  In an air condition system. The temperature sensor will indicate if the temperature is high or low and will send signal to the Fan Coil unit or other cooling equipment to increase or lower down the temperature.
+
+GPT Feedback:
+Right points: The answer mentions the role of the temperature sensor in indicating temperature and controlling equipment.
+Improve on: The phrase "In an air condition system" should be "In an air conditioning system." The sentence structure could be clearer. It should explain how the BAS modulates set-points and controls HVAC systems more effectively.
+Score: 80%
+
+------------------------------------------------------------
