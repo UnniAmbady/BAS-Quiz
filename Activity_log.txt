@@ -5137,3 +5137,15 @@ Improve on: The answer is incomplete. It lacks details on how this monitoring af
 Score: 70%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-30 21:25:55
+Name:         Lau Joe Seng Glenn
+Question:     What does an Intelligent Building Management System (IBMS) do to enhance building operations?
+Modal Answer: An IBMS integrates various subsystems into a unified platform, allowing for coordinated control, real-time data analysis, and improved operational efficiency.
+Student Ans:  centralizes, automates, and optimizes a facility's independent subsystems—such as HVAC, lighting, and security—into a single digital platform to drive operational efficiency and reduce resource waste
+
+GPT Feedback:
+Right points: centralizes, automates, optimizes; independent subsystems; single digital platform; operational efficiency.
+Improve on: "An IBMS integrates various subsystems" should be more aligned with "centralizes, automates, and optimizes." The mention of "reduce resource waste" is a good addition but not specifically in the correct answer.
+Score: 85%
+
+------------------------------------------------------------
