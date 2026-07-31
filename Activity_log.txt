@@ -5200,3 +5200,16 @@ Improve on: The answer lacks detail on how CO2 concentration relates to occupanc
 Score: 80%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-31 20:38:19
+Name:         Zin Min Thu
+Question:      How do carbon-dioxide sensors in a Building Automation System contribute to energy efficiency?  
+
+Modal Answer:  They serve as a proxy for human occupancy, enabling demand-controlled ventilation, which reduces fan energy and reheating losses while maintaining indoor air quality.
+Student Ans:  By adjusting ventilation and HVAC operation based on occupancy levels
+
+GPT Feedback:
+Right points: Adjusting ventilation and HVAC operation based on occupancy levels.
+Improve on: The answer lacks detail on how it reduces energy and maintains air quality. Needs to mention demand-controlled ventilation and benefits like reduced fan energy and reheating losses.
+Score: 80%
+
+------------------------------------------------------------
