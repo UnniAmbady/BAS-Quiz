@@ -5176,3 +5176,15 @@ Improve on: The response is overly wordy and lacks direct mention of "real-time 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-31 20:37:15
+Name:         Zin Min Thu
+Question:     What does an Integrated Building Management System (IBMS) do?
+Modal Answer: An IBMS overlays a unifying software platform on disparate subsystems, allowing operators to monitor and manage multiple systems like HVAC and security from a single interface.
+Student Ans:  An IBMS integrates and controls various building systems from a central platform to improve safety, efficiency, and operational management.
+
+GPT Feedback:
+Right points: Integrates and controls various building systems from a central platform.
+Improve on: "IBMS overlays a unifying software platform" is more precise than just "integrates." The mention of specific systems like HVAC and security is missing.
+Score: 85%
+
+------------------------------------------------------------
