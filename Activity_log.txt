@@ -5149,3 +5149,16 @@ Improve on: "An IBMS integrates various subsystems" should be more aligned with 
 Score: 85%
 
 ------------------------------------------------------------
+Timestamp:    2026-07-31 17:06:26
+Name:         Ang Yu En
+Question:      What is the primary function of carbon-dioxide sensors in a Building Automation System?  
+
+Modal Answer:  Carbon-dioxide sensors detect CO2 concentration to enable demand-controlled ventilation, improving indoor air quality and reducing energy use.
+Student Ans:  To detect the carbon dioxide levels in order to monitor and control the fresh air quality and ventilation in the indoor enclosed areas
+
+GPT Feedback:
+Right points: Detect carbon dioxide levels, monitor air quality, control ventilation.
+Improve on: The answer lacks mention of energy use and demand-controlled ventilation. It should include how CO2 sensors improve indoor air quality and reduce energy use.
+Score: 80%
+
+------------------------------------------------------------
